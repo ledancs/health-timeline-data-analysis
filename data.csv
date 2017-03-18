@@ -1,0 +1,1135 @@
+experiment,patient,pair,case,participant,assessment,visualization,time,chained,insight,value,cumulative,incremental,useTimeline
+1,51,1,1,1,1,timeline,0,0,begin,0,0,0,1
+1,51,1,1,1,1,timeline,3,0,"the patient has quite a number of GP visits in 2011, 2012 and 2013",2,2,2,1
+1,51,1,1,1,1,timeline,12,0,and also prescribed antidepressants more in 2013,2,4,2,1
+1,51,1,1,1,1,timeline,12,1,and sporadic and cycle abuse,2,6,2,1
+1,51,1,1,1,1,timeline,12,1,and also quite significant antidiuretic medication used allowed type,2,8,2,1
+1,51,1,1,1,1,timeline,29,0,"seem that ""inaudible"" due to depression",4,12,4,1
+1,51,1,1,1,1,timeline,29,1,and also comorbid metabolic syndrome ,5,17,5,1
+1,51,1,1,1,1,timeline,29,1,or endocrine disorder,3,20,5,1
+1,51,1,1,1,1,timeline,45,0,some respiratory apnea ,3,23,5,1
+1,51,1,1,1,1,timeline,45,1,that might contribute to the symptoms of depression,4,27,5,1
+1,51,1,1,1,1,timeline,45,1,and anxiety,4,31,5,1
+1,51,1,1,1,1,timeline,51,0,and other non-psychiatric conditions ,3,34,5,1
+1,51,1,1,1,1,timeline,51,1,not sure about at least health-wise frequent visits to the GP,2,36,5,1
+1,51,1,1,1,1,timeline,60,0,and also a number of diagnosis reviews as logy,1,37,5,1
+1,51,1,1,1,1,timeline,70,0,probably in presentation to somesthesis,4,41,5,1
+1,51,1,1,1,1,timeline,74,0,so I may wonder also in terms of comorbid a medical issue suggest a traumatic brain injury ,4,45,5,1
+1,51,1,1,1,1,timeline,74,1,or brain stroke or other conditions,4,49,5,1
+1,51,1,1,1,1,timeline,96,0,most of the time the patient is in voluntary treatment ,2,51,5,1
+1,51,1,1,1,1,timeline,96,1,so there is no hint about involuntary ,2,53,5,1
+1,51,1,1,1,1,timeline,96,1,or high acute issues such as suicide in terms of hospital presentation,3,56,5,1
+1,51,1,1,1,1,timeline,120,0,apart from that that is all thank you,0,56,5,1
+2,28,2,2,1,2,table,0,0,begin,0,0,0,0
+2,28,2,2,1,2,table,1,0,prescription-wise patient has a mixed of prescriptions for both antipsychotic ,1,1,1,0
+2,28,2,2,1,2,table,1,1,and hypercholesterolemia medication,1,2,1,0
+2,28,2,2,1,2,table,17,0,antidepressants aside,1,3,1,0
+2,28,2,2,1,2,table,23,0,and also,0,3,1,0
+2,28,2,2,1,2,table,27,0,seen by a consultant psychiatrist,1,4,1,0
+2,28,2,2,1,2,table,29,0,both GP,1,5,1,0
+2,28,2,2,1,2,table,36,0,and co-managed appeared to be,2,7,2,0
+2,28,2,2,1,2,table,41,0,patient has regular appointment with GP ,2,9,2,0
+2,28,2,2,1,2,table,41,1,and psychiatrist,2,11,2,0
+2,28,2,2,1,2,table,52,0,those are common issues in investigation around a surgical operation and tissue pathology ,0,11,2,0
+2,28,2,2,1,2,table,52,1,where there is something to do with cancer or some inaudible ,3,14,3,0
+2,28,2,2,1,2,table,52,1,and microbiology,2,16,3,0
+2,28,2,2,1,2,table,71,0,so whether comorbid conditions such as diabetes and related conditions,4,20,4,0
+2,28,2,2,1,2,table,79,0,there are some inpatient admissions and voluntary ,2,22,4,0
+2,28,2,2,1,2,table,79,1,"so patient-wise seems that all the medication that are being on from 2013, 2012 and 2011 came from admission in 2011 ",2,24,4,0
+2,28,2,2,1,2,table,79,1,so voluntary admission and before that medication-wise they are more or less similar ,1,25,4,0
+2,28,2,2,1,2,table,79,1,and before that medication-wise they are more or less similar ,1,26,4,0
+2,28,2,2,1,2,table,83,0,so it can be whether is just a disorder or some set inaudible the patient ,3,29,4,0
+2,28,2,2,1,2,table,83,1,and first inpatient in 2009,2,31,4,0
+2,28,2,2,1,2,table,83,1,so this depression or some psychotic depression has been maintained to ongoing outpatient,3,34,4,0
+2,28,2,2,1,2,table,83,1, as well as occasional inpatient but still quite recent in 2013,2,36,4,0
+3,20,3,3,1,3,timeline,0,0,begin,0,0,0,1
+3,20,3,3,1,3,timeline,1,0,the patient is on antidepressant for a couple of years,2,2,2,1
+3,20,3,3,1,3,timeline,10,0,and regular review every month,2,4,2,1
+3,20,3,3,1,3,timeline,14,0,and on antipsychotics,2,6,2,1
+3,20,3,3,1,3,timeline,21,0,more antipsychotics than antidepressants entry,2,8,2,1
+3,20,3,3,1,3,timeline,29,0,visually including mood stabilizers,2,10,2,1
+3,20,3,3,1,3,timeline,29,1,again there is anticholeterol medication,2,12,2,1
+3,20,3,3,1,3,timeline,40,0,massive monos GP presentations specially in initial part of the referral,2,14,2,1
+3,20,3,3,1,3,timeline,49,0,and psychiatric visits are not very frequent during the time but they are quite regular,2,16,2,1
+3,20,3,3,1,3,timeline,59,0,another specialist visit,2,18,2,1
+3,20,3,3,1,3,timeline,62,0,and regular chemistry,2,20,2,1
+3,20,3,3,1,3,timeline,64,0,so you may wonder why the patient is on CODEIN,3,23,3,1
+3,20,3,3,1,3,timeline,79,0,a lot of nursing provided to this person,2,25,3,1
+3,20,3,3,1,3,timeline,79,1,or diabetes to do with comorbidity inaudible mentality,3,28,3,1
+3,20,3,3,1,3,timeline,92,0,not involuntary personal entry admission,1,29,3,1
+3,20,3,3,1,3,timeline,95,0,so for voluntary pretty much significantly annual ,2,31,3,1
+3,20,3,3,1,3,timeline,95,1,or severe mental illness on many medications ,2,33,3,1
+3,20,3,3,1,3,timeline,95,1,sequence of presentations visually and overall seem to me that the final combination seem to me ,2,35,3,1
+3,20,3,3,1,3,timeline,95,1,and overall seem to me that the final combination seem to me ,0,35,3,1
+3,20,3,3,1,3,timeline,127,0,some stability which followed to some kind of services such as maybe rehabilitation or some kind of community support or programs,3,38,3,1
+4,51,1,1,1,4,table,0,0,begin,0,0,0,0
+4,51,1,1,1,4,table,2,0,in prescriptions the patient's prescription from 2010 2004 to 2013 ,1,1,1,0
+4,51,1,1,1,4,table,2,1,so you need to scroll down up and down,0,1,1,0
+4,51,1,1,1,4,table,22,0,at a glance I saw the PBS more or less antidepressants,1,2,1,0
+4,51,1,1,1,4,table,30,0,antidepressants,1,3,1,0
+4,51,1,1,1,4,table,30,1,statins,1,4,1,0
+4,51,1,1,1,4,table,30,1,antidepressants,0,4,1,0
+4,51,1,1,1,4,table,33,0,some pathological services,1,5,1,0
+4,51,1,1,1,4,table,35,0,antipsychotics,1,6,1,0
+4,51,1,1,1,4,table,35,1,and anxiolytic,1,7,1,0
+4,51,1,1,1,4,table,40,0,so initially it started with more pathologic anxiety investigations,2,9,2,0
+4,51,1,1,1,4,table,40,1,and then more become antidepressants and antipsychotics,2,11,2,0
+4,51,1,1,1,4,table,40,1,and then become more stable in terms of psychiatric forecast and regular GP visits,2,13,2,0
+4,51,1,1,1,4,table,62,0,so the patient appear to be having a combination of antidepressant tablets medication and other medication ,2,15,2,0
+4,51,1,1,1,4,table,74,0,ongoing microbiology whether it is something to do with diabetes or inaudible not sure,3,18,3,0
+4,51,1,1,1,4,table,83,0,but overall this inaudible bit of information ,0,18,3,0
+4,51,1,1,1,4,table,83,1,and if you have some question defined on medications or some blood results would be very good to look at the transcript review,0,18,3,0
+4,51,1,1,1,4,table,98,0,but again not sure about this what is this data or we call it clinical data but the heading of it should be very clear,0,18,3,0
+5,6,4,4,1,5,timeline,0,0,begin,0,0,0,1
+5,6,4,4,1,5,timeline,3,0,so spanning almost 10 years maybe until recently,1,1,1,1
+5,6,4,4,1,5,timeline,14,0,but something wrong voluntary patient maybe we do not have any information the whole information is from 2011 about some activities,1,2,1,1
+5,6,4,4,1,5,timeline,24,0,such as some health into context ,0,2,1,1
+5,6,4,4,1,5,timeline,24,1,but what we are clear about is that this person has predominantly antipsychotic treatment,2,4,2,1
+5,6,4,4,1,5,timeline,24,1,and some mood stabilizer and antidepressant lately ,2,6,2,1
+5,6,4,4,1,5,timeline,41,0,so possible that the patient has significant psychotic illness with some mood or poor mood symptoms,4,10,4,1
+5,6,4,4,1,5,timeline,48,0,there are some consult psychiatrist late involvement,2,12,4,1
+5,6,4,4,1,5,timeline,48,1,and also after hours of a specialist visit that is interesting,1,13,4,1
+5,6,4,4,1,5,timeline,48,1,why after hours of specialist visit?,0,13,4,1
+5,6,4,4,1,5,timeline,62,0,and most likely were the patient went to ED,1,14,4,1
+5,6,4,4,1,5,timeline,66,0,and there are a number of hematology and diagnostically procedure chemicals a lot of hematologies,2,16,4,1
+5,6,4,4,1,5,timeline,66,1,you may wonder also whether this person has some comorbid condition like cancer leukemia or heart disease,4,20,4,1
+5,6,4,4,1,5,timeline,66,1,as well as OLANZEPINE,1,21,4,1
+5,6,4,4,1,5,timeline,94,0,overall this visual timeline after looking at it now it is fine ,2,23,4,1
+5,6,4,4,1,5,timeline,94,1,you started feeling a little bit more confident ,0,23,4,1
+5,6,4,4,1,5,timeline,94,1,but not sure what I am looking for because I am just looking and giving the comment about this,0,23,4,1
+5,6,4,4,1,5,timeline,110,0,yeah quite a bit of inpatient episodes in this patient,2,25,4,1
+5,6,4,4,1,5,timeline,110,1,it is the most frequent patient over the last five patients ,2,27,4,1
+5,6,4,4,1,5,timeline,124,0,what they mean by inpatients in each of the is like a click on these all is between 2012 and 2013 quite significant,2,29,4,1
+5,6,4,4,1,5,timeline,136,0,so that is interesting to see in terms of patient progressive illness and whether the response to the treatment or intervention is adequate ,0,29,4,1
+6,5,5,5,1,6,table,0,0,begin,0,0,0,0
+6,5,5,5,1,6,table,1,0,clinical data for participant number five,0,0,0,0
+6,5,5,5,1,6,table,1,1,and it also range from 2004 to 2013 so 10 years period,2,2,2,0
+6,5,5,5,1,6,table,1,1,and you can see antidepressants ,1,3,2,0
+6,5,5,5,1,6,table,1,1,and the GP visits are quite frequent so patient is coming for GP prescriptions ,2,5,2,0
+6,5,5,5,1,6,table,51,0,no psychiatrists that I can see,1,6,2,0
+6,5,5,5,1,6,table,57,0,few non psychiatric instructions,1,7,2,0
+6,5,5,5,1,6,table,64,0,actions-wise no special concern,1,8,2,0
+6,5,5,5,1,6,table,73,0,there is one consultant psychiatrist in 2012 and 2011 so there is some background from psychiatrist,2,10,2,0
+6,5,5,5,1,6,table,85,0,so his assessment is all right going up to duloxetine and his continue with that medication ,2,12,2,0
+6,5,5,5,1,6,table,85,1,seems to be a stable condition and quite settle regular,2,14,2,0
+6,5,5,5,1,6,table,85,1,so we can see that this patient was adhering regularly taking his medication and follow-up some monitoring and continuous care ,3,17,3,0
+7,28,2,2,1,7,timeline,0,0,begin,0,0,0,1
+7,28,2,2,1,7,timeline,2,0,this visual condition is,0,0,0,1
+7,28,2,2,1,7,timeline,13,0,from 2010 to 2013 has spread outs,1,1,1,1
+7,28,2,2,1,7,timeline,17,0,overall,0,1,1,1
+7,28,2,2,1,7,timeline,19,0,it started with a voluntary admission in 2004 or 2007 ,1,2,1,1
+7,28,2,2,1,7,timeline,19,1,and antidepressants and antipsychotics ,1,3,1,1
+7,28,2,2,1,7,timeline,19,1,statins and other non-psychiatric medications,1,4,1,1
+7,28,2,2,1,7,timeline,35,0,at very inaudible General Practitioners ,1,5,1,1
+7,28,2,2,1,7,timeline,48,0,several specialists involved in cytology and immunology,2,7,2,1
+7,28,2,2,1,7,timeline,48,1,so with that background and due to the patient's whether deadly or some comorbid medical condition ,3,10,3,1
+7,28,2,2,1,7,timeline,48,1,need to be monitored with the blood interactions ,4,14,4,1
+7,28,2,2,1,7,timeline,48,1,or liver and hyponatremia or secondaries ,5,19,5,1
+7,28,2,2,1,7,timeline,48,1,with that at least give you some idea within couple of minutes depending on what you are looking for ,0,19,5,1
+7,28,2,2,1,7,timeline,48,1,but timeline-wise severity appear to be constant and ongoing,3,22,5,1
+7,28,2,2,1,7,timeline,48,1,I would say so that is all I can say at this stage,0,22,5,1
+8,20,3,3,1,8,table,0,0,begin,0,0,0,0
+8,20,3,3,1,8,table,3,0,this is about patient prescription in terms of PBS prescriptions as well as other medications,1,1,1,0
+8,20,3,3,1,8,table,12,0,patient is on antipsychotics,1,2,1,0
+8,20,3,3,1,8,table,12,1,and antidepressants ,1,3,1,0
+8,20,3,3,1,8,table,12,1,and there is a change in antipsychotics from olanzapine to risperidone,1,4,1,0
+8,20,3,3,1,8,table,21,0,statins involved as well,1,5,1,0
+8,20,3,3,1,8,table,26,0,optometric assessment,1,6,1,0
+8,20,3,3,1,8,table,30,0,so you wonder whether the patient straight change to OLANZEPINE for some better side-effects,3,9,3,0
+8,20,3,3,1,8,table,30,1,or prolactinemia,3,12,3,0
+8,20,3,3,1,8,table,30,1,or you may want to consider whether it is a p.r.n.,3,15,3,0
+8,20,3,3,1,8,table,46,0,and then I look at that he is on risperidone injection ,1,16,3,0
+8,20,3,3,1,8,table,46,1,so olanzapine appear to be more of an add-on medication ,3,19,3,0
+8,20,3,3,1,8,table,46,1,with some ongoing need to monitor metabolic syndrome ,3,22,3,0
+8,20,3,3,1,8,table,65,0,he has been visiting GP regularly since 2007 tuples or regularly ,2,24,3,0
+8,20,3,3,1,8,table,79,0,so it seems like he is compliant at the prescription and attendance of the clinic may not be to say,2,26,3,0
+8,20,3,3,1,8,table,96,0,then there are some pathological investigation ,1,27,3,0
+8,20,3,3,1,8,table,96,1,as well as common issues that need to be sure that in this case is prolactinemia,3,30,3,0
+8,20,3,3,1,8,table,96,1,but  apart from that this is what investigation appears to me,0,30,3,0
+8,20,3,3,1,8,table,96,1,I just need to scroll down and scroll up looking at ,0,30,3,0
+8,20,3,3,1,8,table,96,1,there is overall within a minute or so that according to the patient idea ,0,30,3,0
+8,20,3,3,1,8,table,96,1,so if I see the patient without even seeing interview it would be my background,0,30,3,0
+8,20,3,3,1,8,table,96,1,so when I see him I could focus on those areas,0,30,3,0
+9,5,5,5,1,9,timeline,0,0,begin,0,0,0,1
+9,5,5,5,1,9,timeline,1,0,this visual one is very neat and tidy ,0,0,0,1
+9,5,5,5,1,9,timeline,5,0,"2011, 2012 and 2013 on antidepressant",2,2,2,1
+9,5,5,5,1,9,timeline,11,0,respiratory issue a little bit,3,5,3,1
+9,5,5,5,1,9,timeline,11,1,and mild psychiatric issue a little bit but not much,3,8,3,1
+9,5,5,5,1,9,timeline,17,0,seemed like maybe managed by GP with a couple of consultations with psychiatrist,2,10,3,1
+9,5,5,5,1,9,timeline,24,0,and also patient has one episode of day patient,1,11,3,1
+9,5,5,5,1,9,timeline,31,0,so whether I wonder whether this is a private patient or somebody who needed some inaudible,3,14,3,1
+9,5,5,5,1,9,timeline,31,1,but apart from there seems pretty regular appointment with GP and regular medication and clean and nice,2,16,3,1
+10,6,4,4,1,10,table,0,0,begin,0,0,0,0
+10,6,4,4,1,10,table,1,0,this clinical data has a long list of medications starting in 2003 inpatient GP,1,1,1,0
+10,6,4,4,1,10,table,12,0,and then started on naltrexone risperidone VALPROATE QUETIAPINE from the very beginning quite severe 2010,1,2,1,0
+10,6,4,4,1,10,table,12,1,from the very beginning quite severe 2010,2,4,2,0
+10,6,4,4,1,10,table,27,0,and continue to have similar treatment in 2010 2011,2,6,2,0
+10,6,4,4,1,10,table,40,0,not sure about injection 2011,1,7,2,0
+10,6,4,4,1,10,table,40,1,and beyond there is no not very clear whether he is having the prescription regularly,0,7,2,0
+10,6,4,4,1,10,table,40,1,inaudible zero point five relatively low dose monthly ,2,9,2,0
+10,6,4,4,1,10,table,66,0,and he is also on olanzapine as well as quetiapine,1,10,2,0
+10,6,4,4,1,10,table,71,0,some people need it look complicated I think it is a hard case ,3,13,3,0
+10,6,4,4,1,10,table,78,0,yeah this is a bit of a inaudible to be rationalized,0,13,3,0
+10,6,4,4,1,10,table,78,1,also on BENZTROPINE so he is having a bit of symptoms ,1,14,3,0
+10,6,4,4,1,10,table,91,0,so just in the vision on RISPERIDONE increased to 50 milligrams in 2012,1,15,3,0
+10,6,4,4,1,10,table,98,0,still on NALTREXONE that is another area ,1,16,3,0
+10,6,4,4,1,10,table,98,1,that why is on NALTREXONE likely to be alcohol,3,19,3,0
+10,6,4,4,1,10,table,98,1,and if that is the case comorbities are quite important and specially cognitive damage if any ,3,22,3,0
+10,6,4,4,1,10,table,98,1,FLUVOXAMINE whether it was depression and any other issue ,3,25,3,0
+10,6,4,4,1,10,table,128,0,he is on temporal injection and NALTREXONE again and OLANZEPINE so far ,1,26,3,0
+10,6,4,4,1,10,table,128,1,and no more SEROQUEL,1,27,3,0
+10,6,4,4,1,10,table,138,0,so why is on OLANZEPINE rather than RISPERIDONE or other medications not clear ,0,27,3,0
+10,6,4,4,1,10,table,149,0,and he is on FLUVOXAMINE too ,1,28,3,0
+10,6,4,4,1,10,table,151,0,overall though this is some picture maybe a little bit again list-wise ,0,28,3,0
+10,6,4,4,1,10,table,151,1,if you do not know what you are looking for that is all overall that you can think of ,0,28,3,0
+10,6,4,4,1,10,table,168,0,and it is quite quick you can have this  view,0,28,3,0
+10,6,4,4,1,10,table,176,0,however I look at it and patient was put on PALIPERIDONE at the end ,1,29,3,0
+10,6,4,4,1,10,table,176,1,and also some hematology so not sure why ,1,30,3,0
+10,6,4,4,1,10,table,187,0,and side effects prolactinemia ,3,33,3,0
+10,6,4,4,1,10,table,187,1,but we do corroborate so most likely less frequent monthly ,3,36,3,0
+11,51,1,6,2,1,timeline,0,0,begin,0,0,0,1
+11,51,1,6,2,1,timeline,34,0,I spent a lot of time bringing it into shape so that it is visible,0,0,0,1
+11,51,1,6,2,1,timeline,40,0,what is obvious is that this patient has been on a range of antidepressants,2,2,2,1
+11,51,1,6,2,1,timeline,40,1,there was a change from PAROXETINE to VENLAFAXINE between April 11 and July 11 ,2,4,2,1
+11,51,1,6,2,1,timeline,40,1,and then the patient seems to have been reliable in the pickups,3,7,3,1
+11,51,1,6,2,1,timeline,57,0,in addition there was antipsychotic OLANZEPINE prescribed for a short while in September October 2012,2,9,3,1
+11,51,1,6,2,1,timeline,68,0,there are prescriptions DIAZEPAM,2,11,3,1
+11,51,1,6,2,1,timeline,68,1,and there is antidiabetic medication right through ,2,13,3,1
+11,51,1,6,2,1,timeline,76,0,as well as trouble which comes from respiratory disease and other medications ,3,16,3,1
+11,51,1,6,2,1,timeline,87,0,now it is notable that during the period when the OLANZEPINE was added there seems to have been also a high rate of GP visits ,2,18,3,1
+11,51,1,6,2,1,timeline,87,1,which have been more irregular and sparse before ,2,20,3,1
+11,51,1,6,2,1,timeline,104,0,and towards the end of the timeframe there was a lot of microbiology ,2,22,3,1
+11,51,1,6,2,1,timeline,104,1,and other investigations like computerized tomography ,2,24,3,1
+11,51,1,6,2,1,timeline,104,1,and diagnostic radiology,2,26,3,1
+11,51,1,6,2,1,timeline,104,1,and then it suggests in addition to some psychiatric inpatient admissions in October at 12,2,28,3,1
+11,51,1,6,2,1,timeline,131,0,there was also some general medical problem happening ,0,28,3,1
+11,51,1,6,2,1,timeline,143,0,overall this patient presents quite of a complex picture of mainly depression ,3,31,3,1
+11,51,1,6,2,1,timeline,143,1,probably complicated with psychotic component anxiety ,5,36,5,1
+11,51,1,6,2,1,timeline,143,1,metabolic disease,4,40,5,1
+11,51,1,6,2,1,timeline,143,1, and probably cancer or some other medical condition,4,44,5,1
+11,51,1,6,2,1,timeline,168,0,I know it is actually antibiotics,3,47,5,1
+12,28,2,7,2,2,table,0,0,begin,0,0,0,0
+12,28,2,7,2,2,table,1,0,this is a document with just tabulated information,0,0,0,0
+12,28,2,7,2,2,table,6,0,and the timeframe is from 2007 with some admission to 2013,1,1,1,0
+12,28,2,7,2,2,table,6,1,and a range of medications prescribed antipsychotic medications,1,2,1,0
+12,28,2,7,2,2,table,6,1, and antidepressants ,1,3,1,0
+12,28,2,7,2,2,table,38,0,it is difficult to judge what regularity prescription has been picked up but it seems that there is a reasonable level of compliance ,2,5,2,0
+12,28,2,7,2,2,table,48,0,patient also receives a study suggesting that he has some metabolic disease,3,8,3,0
+12,28,2,7,2,2,table,48,1,and cholesterol limit,2,10,3,0
+12,28,2,7,2,2,table,58,0,has seen GP,1,11,3,0
+12,28,2,7,2,2,table,58,1,and consulting psychiatrist,1,12,3,0
+12,28,2,7,2,2,table,68,0,2011 there was a voluntary admission,1,13,3,0
+12,28,2,7,2,2,table,78,0,and seems to have been followed by a psychiatric assessment and GP appointments shortly after ,2,15,3,0
+12,28,2,7,2,2,table,78,1,so it seems the treatment was followed up appropriately,3,18,3,0
+12,28,2,7,2,2,table,101,0,May 2012 there is a CT scan ,1,19,3,0
+12,28,2,7,2,2,table,112,0,and in September 12 surgical operation to tissue performed,1,20,3,0
+12,28,2,7,2,2,table,112,1,indicating that there is another illness happening rather than just mental illness,3,23,3,0
+12,28,2,7,2,2,table,131,0,and at some point antidepressant was changed to CITALOPRAM ,2,25,3,0
+12,28,2,7,2,2,table,146,0,in summary I think it is a patient with psychotic illness,4,29,4,0
+12,28,2,7,2,2,table,146,1,who is reasonably well followed up by a GP and psychiatrist ,3,32,4,0
+12,28,2,7,2,2,table,146,1,with the usual metabolic complications,4,36,4,0
+13,20,3,8,2,3,timeline,0,0,begin,0,0,0,1
+13,20,3,8,2,3,timeline,13,0,it is a graphic representation and the zooming out but it does not look which is annoying ,0,0,0,1
+13,20,3,8,2,3,timeline,35,0,ok it is a general feedback if the image starts already spread so it would make things easier ,0,0,0,1
+13,20,3,8,2,3,timeline,43,0,this patient has been reliably prescribed VENLAFAXINE from 2010 through 2012 ,2,2,2,1
+13,20,3,8,2,3,timeline,43,1,it is a period on which was also regular in pickup ,2,4,2,1
+13,20,3,8,2,3,timeline,43,1,and on one occasion also script of OLANZEPINE ,2,6,2,1
+13,20,3,8,2,3,timeline,63,0,VALPROATE seems to have been less regular in pickup this kept early and mid 2011,2,8,2,1
+13,20,3,8,2,3,timeline,81,0,there is a multitude of GP appointments in probably more than monthly intervals ,2,10,2,1
+13,20,3,8,2,3,timeline,81,1,and about sort of half yearly appointments not so frequent ,2,12,2,1
+13,20,3,8,2,3,timeline,81,1,with some other specialist visit which is not specified ,2,14,2,1
+13,20,3,8,2,3,timeline,102,0,he had regular biochemistry ,1,15,2,1
+13,20,3,8,2,3,timeline,102,1,which indicates that there was adherence with protocols as well as regular diagnostic ,3,18,3,1
+13,20,3,8,2,3,timeline,119,0,here we are this evidence is provided on behalf of the practitioners ,0,18,3,1
+13,20,3,8,2,3,timeline,119,1,which suggests that it is a well organized GP clinic ,0,18,3,1
+13,20,3,8,2,3,timeline,119,1,who has record systems well managed ,0,18,3,1
+13,20,3,8,2,3,timeline,119,1,resulting in protocol-driven adherence to patient monitoring and tracking,3,21,3,1
+13,20,3,8,2,3,timeline,140,0,which leads to compliance with medication during the period ,2,23,3,1
+13,20,3,8,2,3,timeline,140,1,or before the more intense treatment period ,2,25,3,1
+13,20,3,8,2,3,timeline,140,1,"where there is one voluntary admission recorded and none ""inaudible"" ",1,26,3,1
+13,20,3,8,2,3,timeline,161,0,so in summary seems to be a well-managed patient primarily through the GP clinic ,3,29,3,1
+13,20,3,8,2,3,timeline,161,1,with sort of half-yearly consultant psychiatrist reviews ,2,31,3,1
+13,20,3,8,2,3,timeline,161,1,which suggests to me they managed the patient,3,34,3,1
+13,20,3,8,2,3,timeline,177,0,diagnosis most likely primary psychotic disorder ,4,38,4,1
+13,20,3,8,2,3,timeline,177,1,"with mood component ""inaudible"" by schizoaffective ",4,42,4,1
+13,20,3,8,2,3,timeline,177,1,or other underlying depression ,3,45,4,1
+13,20,3,8,2,3,timeline,0,0,begin,0,0,0,1
+14,51,1,6,2,4,table,0,1,that's again tabulated data from the timeframe of 2004 with just a bit of data in 2014 ,1,1,1,0
+14,51,1,6,2,4,table,0,1,and then a timeframe form 2010 to 2013 with other clinical data,1,2,1,0
+14,51,1,6,2,4,table,17,0,in terms of the medications statins ,1,3,1,0
+14,51,1,6,2,4,table,17,1,and antidepressants ,1,4,1,0
+14,51,1,6,2,4,table,25,0,some antibiotics in between,2,6,2,0
+14,51,1,6,2,4,table,30,0,it does not seam that we are sending antipsychotics prescribed ,1,7,2,0
+14,51,1,6,2,4,table,30,1,so the assumption is at least ,1,8,2,0
+14,51,1,6,2,4,table,30,1,oh yes there is so ,1,9,2,0
+14,51,1,6,2,4,table,37,0,low dose OLANZEPINE ,1,10,2,0
+14,51,1,6,2,4,table,37,1,which in the context may be more for sedation or sleep purposes ,3,13,3,0
+14,51,1,6,2,4,table,37,1,rather than as frequent as for psychotic illness,0,13,3,0
+14,51,1,6,2,4,table,55,0,yeah and overall it seems that the patient suffers depression ,3,16,3,0
+14,51,1,6,2,4,table,55,1,and diabetes and probably ,3,19,3,0
+14,51,1,6,2,4,table,72,0,that's about it,0,19,3,0
+14,51,1,6,2,4,table,73,0,underlying anxiety disorder ,3,22,3,0
+14,51,1,6,2,4,table,77,0,sees GP regularly ,1,23,3,0
+14,51,1,6,2,4,table,80,0,seems to pickup his scripts fairly regularly ,2,25,3,0
+14,51,1,6,2,4,table,85,0,heading between an antibiotic which one is not clear,1,26,3,0
+14,51,1,6,2,4,table,95,0,and right at the beginning there was a change in antidepressants ,2,28,3,0
+14,51,1,6,2,4,table,95,1,from PAROXETINE to later VENLAFAXINE ,1,29,3,0
+14,51,1,6,2,4,table,95,1,which stayed the same as time progresses for the years,2,31,3,0
+14,51,1,6,2,4,table,117,0,at some point there was some insulin so indicative of worsening of his diabetes,3,34,3,0
+15,6,4,9,2,5,timeline,0,0,begin,0,0,0,1
+15,6,4,9,2,5,timeline,7,0,I have a problem again trying to get things moving ,0,0,0,1
+15,6,4,9,2,5,timeline,24,0,it does not move and it does not show me without ,0,0,0,1
+15,6,4,9,2,5,timeline,37,0,trying to adjust the settings,0,0,0,1
+15,6,4,9,2,5,timeline,43,0,so it starts in 2010 the data right through to 2013 ,1,1,1,1
+15,6,4,9,2,5,timeline,43,1,patient initially had many antipsychotics RISPERIDONE OLANZAPINE,1,2,1,1
+15,6,4,9,2,5,timeline,43,1,increasingly regulating those,2,4,2,1
+15,6,4,9,2,5,timeline,58,0,then in July 2012 antidepressant was added FLUVOXAMINE ,1,5,2,1
+15,6,4,9,2,5,timeline,58,1,which also seemed to have been picked up regularly ,2,7,2,1
+15,6,4,9,2,5,timeline,69,0,then later in 2013 after many antipsychotic therapy there was a shift to OLANZAPINE ,2,9,2,1
+15,6,4,9,2,5,timeline,69,1,it appears or probably to antipsychotic OLANZAPINE ,0,9,2,1
+15,6,4,9,2,5,timeline,85,0,in addition the person receives VALPROATE ,1,10,2,1
+15,6,4,9,2,5,timeline,85,1,and a statin ,1,11,2,1
+15,6,4,9,2,5,timeline,85,1,and some other medications,1,12,2,1
+15,6,4,9,2,5,timeline,103,0,NALTREXONE so probably had an addiction treatment ,3,15,3,1
+15,6,4,9,2,5,timeline,113,0,so in summary it seems that the primary diagnosis is a psychotic illness ,4,19,4,1
+15,6,4,9,2,5,timeline,113,1,probably schizoaffective disorder due to coadministration of a mood stabilizer later ,4,23,4,1
+15,6,4,9,2,5,timeline,113,1,as of mid 2012 antidepressant was added ,2,25,4,1
+15,6,4,9,2,5,timeline,133,0,it seemed to have regular blood tests,2,27,4,1
+15,6,4,9,2,5,timeline,148,0,and GP appointments ,2,29,4,1
+15,6,4,9,2,5,timeline,148,1,and regular consultant reviews ,2,31,4,1
+15,6,4,9,2,5,timeline,163,0,except for sort of late 12 to early 13 there is a gap in consultant visits,2,33,4,1
+15,6,4,9,2,5,timeline,172,0,during that period is actually a clustering of hospital admissions ,2,35,4,1
+15,6,4,9,2,5,timeline,172,1,which may mean that the patient was assessed during the hospital admission rather than having Medicare bill encounters ,3,38,4,1
+15,6,4,9,2,5,timeline,172,1,but nevertheless the correlation is not perfect,2,40,4,1
+16,5,5,10,2,6,table,0,0,begin,0,0,0,0
+16,5,5,10,2,6,table,14,0,it's again data in table form ,0,0,0,0
+16,5,5,10,2,6,table,14,1,same time frame from admission recorded in 2004 ,1,1,1,0
+16,5,5,10,2,6,table,14,1,but otherwise the data sets beings since 2010 right through 2013,1,2,1,0
+16,5,5,10,2,6,table,28,0,medications prescribed are antidepressants ,1,3,1,0
+16,5,5,10,2,6,table,28,1,and antibiotic,1,4,1,0
+16,5,5,10,2,6,table,36,0,it is mainly DULOXETINE through the whole period ,2,6,2,0
+16,5,5,10,2,6,table,45,0,back to 2011 there are antidepressants CITALOPRAM ,1,7,2,0
+16,5,5,10,2,6,table,52,0,some biochemistry,1,8,2,0
+16,5,5,10,2,6,table,56,0,in summary it seems to be a patient who suffers a depressive illness ,3,11,3,0
+16,5,5,10,2,6,table,56,1,who in the timeframe from 2010 to mid 2012 was treated mainly with CITALOPRAM ,2,13,3,0
+16,5,5,10,2,6,table,56,1,and during the mid of 2012 DELOXETINE ,2,15,3,0
+16,5,5,10,2,6,table,56,1,although there was a gap in prescribing between the end of 2011 and July 2012,2,17,3,0
+16,5,5,10,2,6,table,91,0,there is some biochemistry done in November 2012,1,18,3,0
+16,5,5,10,2,6,table,103,0,another episode initiation I do not know what it is,1,19,3,0
+16,5,5,10,2,6,table,109,0,yeah some GP appointments,1,20,3,0
+16,5,5,10,2,6,table,114,0,yeah in summary a patient with relatively straightforward depressive illness ,0,20,3,0
+16,5,5,10,2,6,table,114,1,where during the course of a 4 year period a change of antidepressant has occurred ,0,20,3,0
+16,5,5,10,2,6,table,114,1,with some kind of led monitoring in between,0,20,3,0
+16,5,5,10,2,6,table,135,0,in addition patient was prescribed some respiratory medication ,1,21,3,0
+16,5,5,10,2,6,table,135,1,which suggested he suffers some form of respiratory tract disorder,3,24,3,0
+16,5,5,10,2,6,table,150,0,that's about it,0,24,3,0
+17,28,2,7,2,7,timeline,0,0,begin,0,0,0,1
+17,28,2,7,2,7,timeline,16,0,data starts in July again,1,1,1,1
+17,28,2,7,2,7,timeline,18,0,patient was prescribed CITALOPRAM ,1,2,1,1
+17,28,2,7,2,7,timeline,18,1,and OLANZEPINE ,1,3,1,1
+17,28,2,7,2,7,timeline,18,1,OLANZEPINE right through consistently right through the whole period ,2,5,2,1
+17,28,2,7,2,7,timeline,18,1,and CITALOPRAM  started a little bit later ,2,7,2,1
+17,28,2,7,2,7,timeline,27,0,but it seems to have been also administered quite regularly,2,9,2,1
+17,28,2,7,2,7,timeline,40,0,in addition the patient was on a statin ,1,10,2,1
+17,28,2,7,2,7,timeline,40,1,and some other psychiatric medications ,1,11,2,1
+17,28,2,7,2,7,timeline,40,1,there is a regular pattern of GP visits ,2,13,2,1
+17,28,2,7,2,7,timeline,40,1,suggestive that he was consistently monitored as probably 3 to 4 visits with a consultant psychiatrists,3,16,3,1
+17,28,2,7,2,7,timeline,72,0,in July 12 there was some microbiology ,1,17,3,1
+17,28,2,7,2,7,timeline,72,1,and immunological essays ,1,18,3,1
+17,28,2,7,2,7,timeline,72,1,and tissue pathology conducted ,1,19,3,1
+17,28,2,7,2,7,timeline,72,1,as well as some imaging diagnostic ,1,20,3,1
+17,28,2,7,2,7,timeline,72,1,and there was a surgical operation conducted as well ,1,21,3,1
+17,28,2,7,2,7,timeline,72,1,so it is not indicative of what actually happened ,0,21,3,1
+17,28,2,7,2,7,timeline,72,1,but maybe there was something else back to mental illness occurring,3,24,3,1
+17,28,2,7,2,7,timeline,103,0,in summary it seems a very managed patient ,1,25,3,1
+17,28,2,7,2,7,timeline,103,1,who has stayed on one antidepressant ,2,27,3,1
+17,28,2,7,2,7,timeline,103,1,and one antipsychotic,2,29,3,1
+17,28,2,7,2,7,timeline,113,0,regular adherence to his medication,2,31,3,1
+17,28,2,7,2,7,timeline,117,0,possible metabolic complications ,4,35,4,1
+17,28,2,7,2,7,timeline,117,1,hypercholesterolemia ,3,38,4,1
+17,28,2,7,2,7,timeline,117,1,that is treated with statin ,3,41,4,1
+17,28,2,7,2,7,timeline,117,1,and in addition to this symptoms some antibiotics ,3,44,4,1
+17,28,2,7,2,7,timeline,117,1,or medication which relate to non psychiatric condition,0,44,4,1
+17,28,2,7,2,7,timeline,136,0,overall it appears they managed the patient,3,47,4,1
+17,28,2,7,2,7,timeline,147,0,actually the only criticism is that there is not much in terms of biochemistry happening ,2,49,4,1
+17,28,2,7,2,7,timeline,147,1,so in terms of general blood reviews according to the MPS protocol just don't seem to have been applied to,3,52,4,1
+17,28,2,7,2,7,timeline,168,0,that's it,0,52,4,1
+18,20,3,8,2,8,table,0,0,begin,0,0,0,0
+18,20,3,8,2,8,table,7,0,again in table form,0,0,0,0
+18,20,3,8,2,8,table,10,0,and the same timeframe from 2010 to 2013,1,1,1,0
+18,20,3,8,2,8,table,15,0,antipsychotic OLANZEPINE ,1,2,1,0
+18,20,3,8,2,8,table,15,1,antidepressant VENLAFAXINE ,1,3,1,0
+18,20,3,8,2,8,table,15,1,antipsychotic RISPERIDONE,1,4,1,0
+18,20,3,8,2,8,table,15,1, statin ,1,5,1,0
+18,20,3,8,2,8,table,15,1,OLANZEPINE statin that seems to be a pattern right through so,2,7,2,0
+18,20,3,8,2,8,table,32,0,if we go down in 2012 same as well,0,7,2,0
+18,20,3,8,2,8,table,37,0,GP visits,1,8,2,0
+18,20,3,8,2,8,table,41,0,RISPERIDONE VALPROATE and VENLAFAXINE ,0,8,2,0
+18,20,3,8,2,8,table,54,0,yeah it seems that right through the time frame from 2010 and 2013 patient had similar medication,2,10,2,0
+18,20,3,8,2,8,table,68,0,I can't be certain sort of about what the internals are ,0,10,2,0
+18,20,3,8,2,8,table,68,1,but there seems irregularity with prescribing patterns ,0,10,2,0
+18,20,3,8,2,8,table,68,1,but the medications are repeating themselves in terms of RISPERIDONE and VENLAFAXINE and VALPROATE ,0,10,2,0
+18,20,3,8,2,8,table,68,1,suggestive of psychotic illness ,4,14,4,0
+18,20,3,8,2,8,table,68,1,with a mood component probably schizoaffective disorder considering the mood stabilizer,4,18,4,0
+18,20,3,8,2,8,table,99,0,assessment of these patients hypercholesterolemia managed with statins,4,22,4,0
+18,20,3,8,2,8,table,108,0,fairly regular GP visits sort of clustering in February 2011 GP was seen on a weekly basis,2,24,4,0
+18,20,3,8,2,8,table,125,0,then we have sort of longer gaps also occasionally a psychiatrist review,2,26,4,0
+18,20,3,8,2,8,table,146,0,RISPERIDONE was changed at some point,0,26,4,0
+18,20,3,8,2,8,table,156,0,oh no it does not seem so it just goes on from 15 milligrams ,1,27,4,0
+18,20,3,8,2,8,table,156,1,and the medication is 25 so I am not sure what that means,1,28,4,0
+18,20,3,8,2,8,table,169,0,anyway in summary a patient with primary psychotic illness ,0,28,4,0
+18,20,3,8,2,8,table,169,1,who is on different medications ,2,30,4,0
+18,20,3,8,2,8,table,169,1,it has been prescribed 50 plus 25 milligrams so it is possibly on 75 milligrams fortnightly ,2,32,4,0
+18,20,3,8,2,8,table,169,1,with some mood component ,0,32,4,0
+18,20,3,8,2,8,table,169,1,and regular GP an sporadic psychiatric input overall reasonably managed I would say,2,34,4,0
+19,5,5,10,2,9,timeline,0,0,begin,0,0,0,1
+19,5,5,10,2,9,timeline,9,0,I am just zooming in,0,0,0,1
+19,5,5,10,2,9,timeline,10,0,as a general feedback if the start page would be a little bit more centered and zoomed in would make it easier to navigate,0,0,0,1
+19,5,5,10,2,9,timeline,20,0,so this person has been receiving CITALOPRAM from 2010 to the end of 2011 ,2,2,2,1
+19,5,5,10,2,9,timeline,20,1,and then DULOXETINE from July onwards ,2,4,2,1
+19,5,5,10,2,9,timeline,20,1,with 6 months gap or probably longer 7 or 8 months gap of antidepressants ,2,6,2,1
+19,5,5,10,2,9,timeline,20,1,before recommencement of DUROXETINE ,2,8,2,1
+19,5,5,10,2,9,timeline,46,0,in July 2012 they are in relative short succession consultant psychiatrists consultation,2,10,2,1
+19,5,5,10,2,9,timeline,60,0,it seems that there was intensity of GP contact between August and the end of 2011 ,2,12,2,1
+19,5,5,10,2,9,timeline,72,0,there is a gap of services between January 2012 and July  except two GP appointments,2,14,2,1
+19,5,5,10,2,9,timeline,93,0,and then the pattern becomes more regular again,2,16,2,1
+19,5,5,10,2,9,timeline,97,0,so in summary my impression is that this is a patient with pervasive depressive illness ,4,20,4,1
+19,5,5,10,2,9,timeline,97,1,where for some reason there was a 6 to 8 months gap of medication treatment,0,20,4,1
+19,5,5,10,2,9,timeline,106,0,notably also lack of other input in terms of GP or psychiatrist ,1,21,4,1
+19,5,5,10,2,9,timeline,106,1,at least recommencement of pharmacotherapy with DULOXETINE in July or August in 2012 ,0,21,4,1
+19,5,5,10,2,9,timeline,106,1,seemingly initiated by psychiatrist consult ,3,24,4,1
+19,5,5,10,2,9,timeline,106,1,and from there on follow-up with GP team to have been,2,26,4,1
+20,6,4,9,2,10,table,0,0,begin,0,0,0,0
+20,6,4,9,2,10,table,3,0,patient is a dataset from 2010 through to 2013 June,1,1,1,0
+20,6,4,9,2,10,table,14,0,the range of medications are antidepressants ,1,2,1,0
+20,6,4,9,2,10,table,14,1,FLUVOXAMINE NALTREXONE PALIPERIDONE injection OLANZAPINE tablets,1,3,1,0
+20,6,4,9,2,10,table,27,0,VALPROATE repeating pattern ,2,5,2,0
+20,6,4,9,2,10,table,27,1,some hematology ,1,6,2,0
+20,6,4,9,2,10,table,27,1,and biochemistry ,1,7,2,0
+20,6,4,9,2,10,table,27,1,conducted before commencement with PALIPERIDONE which was started in June 2013 ,2,9,2,0
+20,6,4,9,2,10,table,35,0,it seems that the person received RISPERIDONE injection constantly ,2,11,2,0
+20,6,4,9,2,10,table,35,1,in addition to OLANZEPINE,2,13,2,0
+20,6,4,9,2,10,table,59,0,he has a recurring scripts for 7.5 and 5 milligrams ,1,14,2,0
+20,6,4,9,2,10,table,59,1,which means that he probably takes both combined 12 milligrams,1,15,2,0
+20,6,4,9,2,10,table,71,0,there was a brief hospitalization in March 2013,1,16,2,0
+20,6,4,9,2,10,table,79,0,day visited presentation ,1,17,2,0
+20,6,4,9,2,10,table,79,1,or something other found there are semiregular visits to a general practitioner,2,19,2,0
+20,6,4,9,2,10,table,93,0,some biochemistry,1,20,2,0
+20,6,4,9,2,10,table,98,0,NALTREXONE right through,2,22,2,0
+20,6,4,9,2,10,table,104,0,prescribed VALPROATE,1,23,2,0
+20,6,4,9,2,10,table,108,0,have been ATROPINE drops,1,24,2,0
+20,6,4,9,2,10,table,113,0,it might be that he has been suffering hypo salivation,3,27,3,0
+20,6,4,9,2,10,table,122,0,early in 2011 he was prescribed high doses of OLANZEPINE 2 milligram ,2,29,3,0
+20,6,4,9,2,10,table,122,1,and QUETIAPINE as well,1,30,3,0
+20,6,4,9,2,10,table,132,0,and RISPERIDONE for a period of time was 37.5 milligrams,2,32,3,0
+20,6,4,9,2,10,table,143,0,sort of in summary it appears that this is a patient with a psychotic illness ,4,36,4,0
+20,6,4,9,2,10,table,143,1,who has been managed with injectable antipsychotics medications initially RESPIRADONE 37.5 milligrams later 50 milligram ,2,38,4,0
+20,6,4,9,2,10,table,143,1,and then later changed to PALIPERIDONE ,2,40,4,0
+20,6,4,9,2,10,table,143,1,in addition other antipsychotics specifically OLANZEPINE in various doses ,1,41,4,0
+20,6,4,9,2,10,table,143,1,and mood stabilizer as well,1,42,4,0
+21,51,1,11,3,1,timeline,0,0,begin,0,0,0,1
+21,51,1,11,3,1,timeline,1,0,there seems to be a patient with anxiety ,3,3,3,1
+21,51,1,11,3,1,timeline,1,1,depression,3,6,3,1
+21,51,1,11,3,1,timeline,1,1,and reflux disease ,3,9,3,1
+21,51,1,11,3,1,timeline,1,1,who was trying to quit smoking ,4,13,4,1
+21,51,1,11,3,1,timeline,1,1,and developed comorbid diabetes,5,18,5,1
+21,51,1,11,3,1,timeline,11,0,was prescribed VENLAFAXINE since July of 2011,2,20,5,1
+21,51,1,11,3,1,timeline,16,0,and OLANZEPINE started in September of 2012,2,22,5,1
+21,51,1,11,3,1,timeline,19,0,seems to go inside with an acute inaudible in a voluntary admission on September and October of 2012,1,23,5,1
+21,51,1,11,3,1,timeline,27,0,I suspect there is worsening diabetes ,4,27,5,1
+21,51,1,11,3,1,timeline,27,1,with hypercholesterolemia,3,30,5,1
+21,51,1,11,3,1,timeline,27,1,and possible weight gain ,3,33,5,1
+21,51,1,11,3,1,timeline,27,1,which is when the GP visits have increased and the symptoms have worsen,3,36,5,1
+21,51,1,11,3,1,timeline,37,0,and the dosage of the medications has increased,2,38,5,1
+22,28,2,12,3,2,table,0,0,begin,0,0,0,0
+22,28,2,12,3,2,table,1,0,this is a patient which had a voluntary admission in 2009,1,1,1,0
+22,28,2,12,3,2,table,4,0,has been in antidepressants ,2,3,2,0
+22,28,2,12,3,2,table,4,1,and antipsychotics ,2,5,2,0
+22,28,2,12,3,2,table,4,1,usually managed by the GP for at least 2 years after,2,7,2,0
+22,28,2,12,3,2,table,10,0,there was an admission in 2011 voluntary one ,2,9,2,0
+22,28,2,12,3,2,table,10,1,after which there has been a 2 monthly review by a psychiatrist likely as an outpatient,2,11,2,0
+22,28,2,12,3,2,table,18,0,and there was another voluntary admission later in the year for about a week,2,13,2,0
+22,28,2,12,3,2,table,18,1,and subsequently the person seems to have gained weight ,3,16,3,0
+22,28,2,12,3,2,table,18,1,and elevated cholesterol levels ,3,19,3,0
+22,28,2,12,3,2,table,18,1,and as a result of which they have had to be prescribed medications,3,22,3,0
+23,20,3,13,3,3,timeline,0,0,begin,0,0,0,1
+23,20,3,13,3,3,timeline,1,0,this is a patient who has been a voluntary inpatient in November 2010,1,1,1,1
+23,20,3,13,3,3,timeline,6,0,there have been frequent GP appointments ,2,3,2,1
+23,20,3,13,3,3,timeline,6,1,leading up to the admission ,1,4,2,1
+23,20,3,13,3,3,timeline,6,1,with almost weekly GP visits,0,4,2,1
+23,20,3,13,3,3,timeline,13,0,an specialist visits that started in October 2010,2,6,2,1
+23,20,3,13,3,3,timeline,16,0,and there is also an episode with the anesthetics ,1,7,2,1
+23,20,3,13,3,3,timeline,16,1,so I wonder whether there is also ongoing pain issues ,3,10,3,1
+23,20,3,13,3,3,timeline,16,1,or somatic complaints as well,3,13,3,1
+23,20,3,13,3,3,timeline,26,0,so overall I think it is a combination of psychosis ,4,17,4,1
+23,20,3,13,3,3,timeline,26,1,and mood symptoms ,4,21,4,1
+23,20,3,13,3,3,timeline,26,1,possibly either by bipolarity ,4,25,4,1
+23,20,3,13,3,3,timeline,26,1,or schizoaffective disorder,4,29,4,1
+24,51,1,11,3,4,table,0,0,begin,0,0,0,0
+24,51,1,11,3,4,table,1,0,this does seem to have a combination of depression ,3,3,3,0
+24,51,1,11,3,4,table,1,1,diabetes ,3,6,3,0
+24,51,1,11,3,4,table,1,1,and hypercholesterolemia ,3,9,3,0
+24,51,1,11,3,4,table,1,1,who has seemingly having worsening of ,0,9,3,0
+24,51,1,11,3,4,table,14,0,diabetic symptoms resulting in insulin injection,4,13,4,0
+25,6,4,14,3,5,timeline,0,0,begin,0,0,0,1
+25,6,4,14,3,5,timeline,1,0,this patient seems to have had several voluntary admissions in 2012,2,2,2,1
+25,6,4,14,3,5,timeline,5,0,and several psychiatric appointments along this time as well,2,4,2,1
+25,6,4,14,3,5,timeline,8,0,three different antipsychotics ,2,6,2,1
+25,6,4,14,3,5,timeline,8,1,and several trails,2,8,2,1
+25,6,4,14,3,5,timeline,11,0,and combination of antipsychotics ,1,9,2,1
+25,6,4,14,3,5,timeline,11,1,and mood stabilizers,1,10,2,1
+25,6,4,14,3,5,timeline,15,0,seems to have developed side effects secondary to antipsychotic medications ,4,14,4,1
+25,6,4,14,3,5,timeline,15,1,and has had RISPERIDONE injection ,2,16,4,1
+25,6,4,14,3,5,timeline,15,1,the dose of which has been increased since the discharge from hospital,2,18,4,1
+25,6,4,14,3,5,timeline,26,0,and there is also seemingly comorbid depression ,5,23,5,1
+25,6,4,14,3,5,timeline,26,1,and opioid dependence as well,5,28,5,1
+25,6,4,14,3,5,timeline,34,0,and the possibility of side effects developed as a result of the injection,4,32,5,1
+25,6,4,14,3,5,timeline,38,0,or the lapse of potential community treatment orders ,4,36,5,1
+25,6,4,14,3,5,timeline,38,1,or request of change from RISPERIDONE to OLANZEPINE,3,39,5,1
+26,5,5,15,3,6,table,0,0,begin,0,0,0,0
+26,5,5,15,3,6,table,1,0,this person seems to have had depression ,3,3,3,0
+26,5,5,15,3,6,table,1,1,and usually managed by the GP with CITALOPRAM,2,5,3,0
+26,5,5,15,3,6,table,10,0,and I suspect that the GP has asked for a one off consult by a psychiatrist ,2,7,3,0
+26,5,5,15,3,6,table,10,1,resulting in the antidepressant being changed from CITALOPRAM to DULOXETINE,3,10,3,0
+26,5,5,15,3,6,table,19,0,possible non-response to previous antidepressant medication,3,13,3,0
+27,28,2,12,3,7,timeline,0,0,begin,0,0,0,1
+27,28,2,12,3,7,timeline,1,0,this patient seems to have two admissions in 2011 ,2,2,2,1
+27,28,2,12,3,7,timeline,1,1,with regular psychiatric appointments since,2,4,2,1
+27,28,2,12,3,7,timeline,7,0,likely combination depression ,4,8,4,1
+27,28,2,12,3,7,timeline,7,1,anxiety ,4,12,4,1
+27,28,2,12,3,7,timeline,7,1,hypercholesterolemia ,3,15,4,1
+27,28,2,12,3,7,timeline,7,1,and reflux disease,3,18,4,1
+28,20,3,13,3,8,table,0,0,begin,0,0,0,0
+28,20,3,13,3,8,table,1,0,this patient seems to be in a combination of antidepressants ,2,2,2,0
+28,20,3,13,3,8,table,1,1,injectable antipsychotic medications ,2,4,2,0
+28,20,3,13,3,8,table,1,1,and mood stabilizers ,2,6,2,0
+28,20,3,13,3,8,table,1,1,and quite recently there has been the addition of OLANZAPINE,2,8,2,0
+28,20,3,13,3,8,table,10,0,I wonder whether there is a worsening of symptoms over time,3,11,3,0
+29,5,5,15,3,9,timeline,0,0,begin,0,0,0,1
+29,5,5,15,3,9,timeline,1,0,this seems to be a patient with depressive symptoms ,4,4,4,1
+29,5,5,15,3,9,timeline,4,0,who has remained stable on the antidepressant medication CITALOPRAM ,2,6,4,1
+29,5,5,15,3,9,timeline,4,1,usually managed by the GP ,2,8,4,1
+29,5,5,15,3,9,timeline,4,1,with occasional psychiatric input,2,10,4,1
+30,6,4,14,3,10,table,0,0,begin,0,0,0,0
+30,6,4,14,3,10,table,1,0,this is a patient on injectable antipsychotic medications ,1,1,1,0
+30,6,4,14,3,10,table,1,1,mood stabilizers ,1,2,1,0
+30,6,4,14,3,10,table,1,1,and a range of antidepressants,1,3,1,0
+30,6,4,14,3,10,table,5,0,as well usually managed by both the GP and the psychiatrist,2,5,2,0
+30,6,4,14,3,10,table,12,0,I wonder about the comorbid opioid dependence ,3,8,3,0
+30,6,4,14,3,10,table,14,0,as well and I noticed the antidepressant has been changed over from RISPERIDONE to PALIPERIDONE ,2,10,3,0
+30,6,4,14,3,10,table,17,0,and I suspect it is for the increase in the frequency of injections,2,12,3,0
+31,51,1,16,4,1,timeline,0,0,begin,0,0,0,1
+31,51,1,16,4,1,timeline,15,0,sorry I am having some trouble looking at the interface,0,0,0,1
+31,51,1,16,4,1,timeline,22,0,there are some data between late 2010 to 2013 I guess 2013 that's right,1,1,1,1
+31,51,1,16,4,1,timeline,43,0,there is some medication details VENLAFAXINE given most of the time ,2,3,2,1
+31,51,1,16,4,1,timeline,43,1,and there is some OLANZEPINE given in late 2012 ,1,4,2,1
+31,51,1,16,4,1,timeline,43,1,some DIAZEPAM given at the same time for OLANZEPINE ,2,6,2,1
+31,51,1,16,4,1,timeline,43,1,and this person is also on diabetic medications since about mid 2011,2,8,2,1
+31,51,1,16,4,1,timeline,78,0,there is something called RC which I do not know,1,9,2,1
+31,51,1,16,4,1,timeline,89,0,sorry there is something in purple called RC which I am unable to see,0,9,2,1
+31,51,1,16,4,1,timeline,95,0,and then most of these have been done visits by GP ,1,10,2,1
+31,51,1,16,4,1,timeline,95,1,I see one which has been GP attendance,1,11,2,1
+31,51,1,16,4,1,timeline,109,0,there has been a series of chemicals hematologies ,1,12,2,1
+31,51,1,16,4,1,timeline,109,1,and biochemical investigations,1,13,2,1
+31,51,1,16,4,1,timeline,121,0,I just check the time period for these between 2011 and 2013,2,15,2,1
+31,51,1,16,4,1,timeline,138,0,looking at when VENLAFAXINE has been given there is more visits linked to visits to a GP,2,17,2,1
+31,51,1,16,4,1,timeline,144,0,also I see some nicotine replacement by a GP in late 2011,1,18,2,1
+31,51,1,16,4,1,timeline,156,0,this person uses after hours a few times,2,20,2,1
+31,51,1,16,4,1,timeline,164,0,moving right,0,20,2,1
+31,51,1,16,4,1,timeline,166,0,I am just looking at OLANZEPINE ,0,20,2,1
+31,51,1,16,4,1,timeline,166,1,I think it was done by a GP I am surprised that the person is ,3,23,3,1
+31,51,1,16,4,1,timeline,186,0,the screen has changed,0,23,3,1
+31,51,1,16,4,1,timeline,186,1,it says no client connected ,0,23,3,1
+31,51,1,16,4,1,timeline,186,1,I do not know what to do now search says no client connected ,0,23,3,1
+31,51,1,16,4,1,timeline,186,1,and that is about it I just need to logout I think,0,23,3,1
+32,28,2,17,4,2,table,0,0,begin,0,0,0,0
+32,28,2,17,4,2,table,3,0,it is some sort of clinical data that come up,0,0,0,0
+32,28,2,17,4,2,table,13,0,a lot of data,0,0,0,0
+32,28,2,17,4,2,table,13,1,"it gives an account of documents, category, items, start and end date ",0,0,0,0
+32,28,2,17,4,2,table,13,1,I am trying to understand this,0,0,0,0
+32,28,2,17,4,2,table,28,0,this is clearly ,0,0,0,0
+32,28,2,17,4,2,table,28,1,it is very confusing meaning the start date for these different medications there are a lot of dates,0,0,0,0
+32,28,2,17,4,2,table,36,0,I think there is,0,0,0,0
+32,28,2,17,4,2,table,38,0,come from,0,0,0,0
+32,28,2,17,4,2,table,40,0,I think I should scroll a lot,0,0,0,0
+32,28,2,17,4,2,table,42,0,so since 2007 I see a hospital admission ,1,1,1,0
+32,28,2,17,4,2,table,42,1,and this person is on CITALOPRAM tablets,1,2,1,0
+32,28,2,17,4,2,table,51,0,then late 2000 OLANZEPINE ,1,3,1,0
+32,28,2,17,4,2,table,51,1,then OLANZEPINE continuing,2,5,2,0
+32,28,2,17,4,2,table,56,0,what is the second column,0,5,2,0
+32,28,2,17,4,2,table,60,0,start and end date ok,0,5,2,0
+32,28,2,17,4,2,table,63,0,second is ,0,5,2,0
+32,28,2,17,4,2,table,63,1,do I need to,0,5,2,0
+32,28,2,17,4,2,table,66,0,I do not know what the start and end date represent ,0,5,2,0
+32,28,2,17,4,2,table,66,1,so OLANZEPINE OLANZEPIN late 2010 start end date 17 9 2010 I am not sure whether it is the end of the script or,0,5,2,0
+32,28,2,17,4,2,table,66,1,so OLANZEPINE ,0,5,2,0
+32,28,2,17,4,2,table,66,1,OLANZEPIN late 2010 start ,0,5,2,0
+32,28,2,17,4,2,table,66,1,end date 17th of September 2010 ,0,5,2,0
+32,28,2,17,4,2,table,66,1,I am not sure whether it is the end of the script or,0,5,2,0
+32,28,2,17,4,2,table,79,0,then there is this 15th of September 2010 to 15th of October 2010,0,5,2,0
+32,28,2,17,4,2,table,83,0,I do not know what happened after 15th of October,0,5,2,0
+32,28,2,17,4,2,table,87,0,"ten, eleven and so on",0,5,2,0
+32,28,2,17,4,2,table,90,0,I can see that there has been OLANZEPINE ,0,5,2,0
+32,28,2,17,4,2,table,90,1,and GP ,1,6,2,0
+32,28,2,17,4,2,table,90,1,there is a consultant psychiatrist,1,7,2,0
+32,28,2,17,4,2,table,98,0,diagnostics radiology,1,8,2,0
+32,28,2,17,4,2,table,98,1,OLANZEPINE,1,9,2,0
+32,28,2,17,4,2,table,104,0,clearly this it is somewhat difficult to,0,9,2,0
+32,28,2,17,4,2,table,104,1,I mean it is for me slightly better because it follows chronologically from 2007 onwards ,0,9,2,0
+32,28,2,17,4,2,table,104,1,but it is hard to ascertain which two medications the person is on at the same time ,0,9,2,0
+32,28,2,17,4,2,table,104,1,for instance there on CITALOPRAM 20th and 19th on 2011 to 28th of May,0,9,2,0
+32,28,2,17,4,2,table,104,1,but then there is another  18th of May 2011 to 20th of May ,0,9,2,0
+32,28,2,17,4,2,table,104,1,so there is no point finding dates ,0,9,2,0
+32,28,2,17,4,2,table,104,1,and it is hard to ascertain whether at the same time when there on CITALOPRAM the OLANZEPINE was prescribed or not ,0,9,2,0
+32,28,2,17,4,2,table,104,1,so this format is unhelpful and it doesn't give me a good understanding of what was happening when ,0,9,2,0
+32,28,2,17,4,2,table,104,1,I am a visual person that could be a reason ,0,9,2,0
+32,28,2,17,4,2,table,104,1,so this is a complete list of what is happening but I do not think it is good enough to piece together what is happening,0,9,2,0
+33,20,3,18,4,3,timeline,0,0,begin,0,0,0,1
+33,20,3,18,4,3,timeline,1,0,going back to a visual  participant 20 health timeline,0,0,0,1
+33,20,3,18,4,3,timeline,8,0,I have to first I just move right but I want to move left,0,0,0,1
+33,20,3,18,4,3,timeline,16,0,nothing is happening,0,0,0,1
+33,20,3,18,4,3,timeline,16,1,is zooming in,0,0,0,1
+33,20,3,18,4,3,timeline,22,0,looks very similar zooming in zooming in,0,0,0,1
+33,20,3,18,4,3,timeline,33,0,so I have a data here spanning from 2010 July to just to 2013 July,1,1,1,1
+33,20,3,18,4,3,timeline,52,0,it is neatly classified into color coding ,0,1,1,1
+33,20,3,18,4,3,timeline,52,1,and I can see that this person has been in VENLAFAXINE for most of the time,2,3,2,1
+33,20,3,18,4,3,timeline,63,0,and also it gives me a correlation that at the same time they were on VENLAFAXINE ,0,3,2,1
+33,20,3,18,4,3,timeline,63,1,they've also been on RISPERIDONE ,2,5,2,1
+33,20,3,18,4,3,timeline,63,1,and also on VALPROATE ,2,7,2,1
+33,20,3,18,4,3,timeline,63,1,and statins ,2,9,2,1
+33,20,3,18,4,3,timeline,63,1,and PARACETAMOL,2,11,2,1
+33,20,3,18,4,3,timeline,63,1,it gives me contact with the GP ,2,13,2,1
+33,20,3,18,4,3,timeline,63,1,and it gives me a timeline for consultant psychiatrist,2,15,2,1
+33,20,3,18,4,3,timeline,92,0,it also gives me of inaudible possibly a hospital admission inpatient or day patient procedure,1,16,2,1
+33,20,3,18,4,3,timeline,103,0,I could see that at the time of the patient procedure this person was on VENLAFAXINE and RISPERIDONE and VALPROATE ,2,18,2,1
+33,20,3,18,4,3,timeline,103,1,and has been in contact with the GP ,0,18,2,1
+33,20,3,18,4,3,timeline,103,1,they have been in consultant psychiatrist ,0,18,2,1
+33,20,3,18,4,3,timeline,103,1,they have been having some specialist visits ,0,18,2,1
+33,20,3,18,4,3,timeline,103,1,and this person has also had a procedure,1,19,2,1
+33,20,3,18,4,3,timeline,122,0,moving up and down,0,19,2,1
+33,20,3,18,4,3,timeline,126,0,and mostly been with the GP,0,19,2,1
+33,20,3,18,4,3,timeline,142,0,some tests done ,0,19,2,1
+33,20,3,18,4,3,timeline,142,1,patient has been to the optometry ,1,20,2,1
+33,20,3,18,4,3,timeline,142,1,so there is an optometry and they were on VENLAFAXINE and RISPERIDONE ,0,20,2,1
+33,20,3,18,4,3,timeline,142,1,which is useful because when they are on VENLAFAXINE they can have visual effects sometimes,3,23,3,1
+33,20,3,18,4,3,timeline,159,0,going down they have had a CT ,1,24,3,1
+33,20,3,18,4,3,timeline,159,1,I do not know what part of it ,0,24,3,1
+33,20,3,18,4,3,timeline,159,1,but then again it is useful to see if there are any organic tissues going on ,1,25,3,1
+33,20,3,18,4,3,timeline,159,1,ok now it has logged me off,0,25,3,1
+34,51,1,16,4,4,table,0,0,begin,0,0,0,0
+34,51,1,16,4,4,table,0,1,this is a data or similar data or somebody else's ,0,0,0,0
+34,51,1,16,4,4,table,0,1,again it is a list as I mentioned before clearly I find this information hard to comprehend if it is given in the form of a list,0,0,0,0
+34,51,1,16,4,4,table,28,0,for instance it is hard to find when the anesthetic procedure happened,1,1,1,0
+34,51,1,16,4,4,table,37,0,I am not sure if it is the same patient or not but clearly,0,1,1,0
+34,51,1,16,4,4,table,46,0,I see that there are some GP contacted ,1,2,1,0
+34,51,1,16,4,4,table,46,1,VENLAFAXINE,1,3,1,0
+34,51,1,16,4,4,table,52,0,there is some med form in some diagnostic ,1,4,1,0
+34,51,1,16,4,4,table,52,1,radiology at various times,2,6,2,0
+34,51,1,16,4,4,table,61,0,there has been some OLANZEPINE med form in,1,7,2,0
+34,51,1,16,4,4,table,61,1,med form in VENLAFAXINE,0,7,2,0
+34,51,1,16,4,4,table,67,0,as I mentioned before this is very hard to work out when the treatment started when treatment finished ,0,7,2,0
+34,51,1,16,4,4,table,67,1,what is happening at the same time ,0,7,2,0
+34,51,1,16,4,4,table,67,1,it has no temporal association or linkage ,0,7,2,0
+34,51,1,16,4,4,table,67,1,I am just scrolling up and down randomly ,0,7,2,0
+34,51,1,16,4,4,table,67,1,maybe it will help if it had some specific thing I mean specific day let's say what was happening in 2011 ,0,7,2,0
+34,51,1,16,4,4,table,67,1,even then I could say the person was on VENLAFAXINE at the time but I have to scroll through to see if there are any other medication ,0,7,2,0
+34,51,1,16,4,4,table,67,1,so I do not like this format or it has been unhelpful but I would rather prefer the pictorial visual format,0,7,2,0
+34,51,1,16,4,4,table,133,0,that seems to be ,0,7,2,0
+34,51,1,16,4,4,table,133,1,I mean it would help particularly in psychiatry where information of multiple sources have to be gathered,0,7,2,0
+34,51,1,16,4,4,table,133,1,and this form of listing is unhelpful rather a picture ,0,7,2,0
+34,51,1,16,4,4,table,133,1,and a graphic representation would be much better to have a comprehensive picture,0,7,2,0
+34,51,1,16,4,4,table,157,0,I am not sure what I am supposed to comment on this list ,0,7,2,0
+34,51,1,16,4,4,table,157,1,all I can say is that this person has seen a number of agencies EMBS PBS whatever,1,8,2,0
+34,51,1,16,4,4,table,169,0,sorry EMB goes to GP inaudible,0,8,2,0
+34,51,1,16,4,4,table,176,0,that's it logged me out,0,8,2,0
+35,6,4,19,4,5,timeline,0,0,begin,0,0,0,1
+35,6,4,19,4,5,timeline,2,0,again this is a pictorial representation,0,0,0,1
+35,6,4,19,4,5,timeline,6,0,I have to zoom in a bit,0,0,0,1
+35,6,4,19,4,5,timeline,13,0,so this gives me data between 2010 July 2010 and about April 2013,1,1,1,1
+35,6,4,19,4,5,timeline,29,0,I can see that this particular participant was on antidepressants,1,2,1,1
+35,6,4,19,4,5,timeline,45,0,there is some problem with this zoom in,0,2,1,1
+35,6,4,19,4,5,timeline,47,0,I am sure respiratory ,1,3,1,1
+35,6,4,19,4,5,timeline,47,1,VENLAFAXINE,1,4,1,1
+35,6,4,19,4,5,timeline,51,0,yeah so I can see that this person was on antipsychotics for quite some time let's say 2011,2,6,2,1
+35,6,4,19,4,5,timeline,62,0,they were on RISPERIDONE ,1,7,2,1
+35,6,4,19,4,5,timeline,62,1,QUETIAPINE ,1,8,2,1
+35,6,4,19,4,5,timeline,62,1,and also VALPROATE ,1,9,2,1
+35,6,4,19,4,5,timeline,62,1,which raises the possibility of a bipolar disorder,3,12,3,1
+35,6,4,19,4,5,timeline,65,0,they've been on NALTREXONE ,1,13,3,1
+35,6,4,19,4,5,timeline,65,1,alcohol could have been an issue,3,16,3,1
+35,6,4,19,4,5,timeline,74,0,has seen a GP regularly,2,18,3,1
+35,6,4,19,4,5,timeline,80,0,and there continuing the medication,2,20,3,1
+35,6,4,19,4,5,timeline,82,0,in May 2012 antidepressant has been added ,2,22,3,1
+35,6,4,19,4,5,timeline,82,1,which possibly points to a lapse of a bipolar disorder,3,25,3,1
+35,6,4,19,4,5,timeline,91,0,now if I were to correlate that with below,0,25,3,1
+35,6,4,19,4,5,timeline,105,0,and then there has been more GP attendances ,2,27,3,1
+35,6,4,19,4,5,timeline,105,1,and also seen by a psychiatrist in two occasions in the latter part ,2,29,3,1
+35,6,4,19,4,5,timeline,105,1,so I suspect that the antidepressant was added after seeing the consultant psychiatrist ,3,32,3,1
+35,6,4,19,4,5,timeline,105,1,and then something about patient episode initiation ,1,33,3,1
+35,6,4,19,4,5,timeline,105,1,other services say ESP sequence of services ,2,35,3,1
+35,6,4,19,4,5,timeline,105,1,and this person has been on voluntary patient around the same time when the antidepressant was started,2,37,3,1
+35,6,4,19,4,5,timeline,105,1,so clearly there is something happening in late 2012 or early 2013,1,38,3,1
+35,6,4,19,4,5,timeline,142,0,and let's go back when the person was just on RISPERIDONE and VALPROATE ,0,38,3,1
+35,6,4,19,4,5,timeline,142,1,if I scroll downwards nothing much is happening maybe they were doing well at that time,3,41,3,1
+35,6,4,19,4,5,timeline,160,0,and even more in further to 2011 and scrolling down ,0,41,3,1
+35,6,4,19,4,5,timeline,160,1,they had an ultra sound ,1,42,3,1
+35,6,4,19,4,5,timeline,160,1,patient episode initiation something ,1,43,3,1
+35,6,4,19,4,5,timeline,160,1,as I said but they haven't had any inpatient treatment so that's good,3,46,3,1
+35,6,4,19,4,5,timeline,175,0,and it logged me off,0,46,3,1
+36,5,5,20,4,6,table,0,0,begin,0,0,0,0
+36,5,5,20,4,6,table,2,0,it is again a listed format,0,0,0,0
+36,5,5,20,4,6,table,6,0,it is very hard on a Friday afternoon to really look into this list and make sense of anything,0,0,0,0
+36,5,5,20,4,6,table,17,0,all I can see is the person has seen a psychiatrist in 2012 ,2,2,2,0
+36,5,5,20,4,6,table,17,1,whether the psychiatrist was prescribing something ,1,3,2,0
+36,5,5,20,4,6,table,17,1,so I assume it is one seven twelve antidepressant DULOXETINE,1,4,2,0
+36,5,5,20,4,6,table,36,0,a resume of psychiatrist change the medication prior to that in 2011 there is CITALOPRAM ,2,6,2,0
+36,5,5,20,4,6,table,36,1,CITALOPRAM so one possibility is that the psychiatrist changed it over to DULOXETINE that is the conclusion I can draw from this,2,8,2,0
+36,5,5,20,4,6,table,59,0,GP visit again ,1,9,2,0
+36,5,5,20,4,6,table,59,1,it is like too wordy and I can really make much assumptions from this,0,9,2,0
+36,5,5,20,4,6,table,59,1,there are optometry consultations 7th of June 2011,1,10,2,0
+36,5,5,20,4,6,table,80,0,well I do not know day patient voluntary,0,10,2,0
+36,5,5,20,4,6,table,86,0,I can't really,0,10,2,0
+36,5,5,20,4,6,table,96,0,I do not know what is happening,0,10,2,0
+36,5,5,20,4,6,table,102,0,and I do not know what else to comment,0,10,2,0
+36,5,5,20,4,6,table,105,0,I do not know what else to comment ,0,10,2,0
+36,5,5,20,4,6,table,105,1,there are some pathology services ,1,11,2,0
+36,5,5,20,4,6,table,105,1,some non-psychiatric medications TERBINAFINE given,1,12,2,0
+36,5,5,20,4,6,table,117,0,can't make any inferences about whether something is working ,0,12,2,0
+36,5,5,20,4,6,table,117,1,all I can see is that for a year they were taking almost a year ,0,12,2,0
+36,5,5,20,4,6,table,117,1,or six months they were taking DULOXETINE from December 2012 to June 2013,2,14,2,0
+36,5,5,20,4,6,table,138,0,that's about it,0,14,2,0
+36,5,5,20,4,6,table,146,0,it is not logging me out I have nothing more out so I just keep scrolling up and down,0,14,2,0
+36,5,5,20,4,6,table,160,0,apart from making further observations CITALOPRAM 2010 to 2011,2,16,2,0
+36,5,5,20,4,6,table,169,0,A one GP has been seen in 2010 ,1,17,2,0
+36,5,5,20,4,6,table,169,1,yeah thankfully it logged me out,0,17,2,0
+37,28,2,17,4,7,timeline,0,0,begin,0,0,0,1
+37,28,2,17,4,7,timeline,7,0,I have to zooming first,0,0,0,1
+37,28,2,17,4,7,timeline,13,0,I can see that this is a data from 2010 late September August 2010 ,1,1,1,1
+37,28,2,17,4,7,timeline,13,1,and I think the data goes to when was this just moving right to June 2013 OK,1,2,1,1
+37,28,2,17,4,7,timeline,41,0,I can see that this participant was on antidepressants for most of the time so for like 3 years,2,4,2,1
+37,28,2,17,4,7,timeline,49,0,it would be better to sort of scroll right rather than clicking on this move right thing,0,4,2,1
+37,28,2,17,4,7,timeline,58,0,so the antidepressant has always been CITALOPRAM,2,6,2,1
+37,28,2,17,4,7,timeline,62,0,again to move left,0,6,2,1
+37,28,2,17,4,7,timeline,65,0,there has been this OLANZAPINE,1,7,2,1
+37,28,2,17,4,7,timeline,67,0,which has been a consistent antipsychotic throughout,2,9,2,1
+37,28,2,17,4,7,timeline,73,0,maybe I will zoom out a bit,0,9,2,1
+37,28,2,17,4,7,timeline,76,0,so I know what the color codes are,0,9,2,1
+37,28,2,17,4,7,timeline,83,0,so I just see now that in a snapshot I can see that there has been CITALOPRAM from 2011 to 2013 ,2,11,2,1
+37,28,2,17,4,7,timeline,83,1,and antipsychotic OLANZAPINE on the same time roughly,2,13,2,1
+37,28,2,17,4,7,timeline,98,0,statin and turbo statin,2,15,2,1
+37,28,2,17,4,7,timeline,100,0,and then other non-psychiatric visits to GPs,2,17,2,1
+37,28,2,17,4,7,timeline,106,0,and also seen consultant psychiatrist quite a number of times,2,19,2,1
+37,28,2,17,4,7,timeline,114,0,optometry surgical operations and so on,1,20,2,1
+37,28,2,17,4,7,timeline,119,0,what I do not understand is whether this person gets multiple scripts ,0,20,2,1
+37,28,2,17,4,7,timeline,119,1,so there is a dot the CITALOPRAM goes to a general practitioner ,2,22,2,1
+37,28,2,17,4,7,timeline,132,0,it's a bit confusing whether who gave what ,0,22,2,1
+37,28,2,17,4,7,timeline,132,1,I guess a dot that goes straight across and where does it end ,0,22,2,1
+37,28,2,17,4,7,timeline,132,1,so voluntary OK,1,23,2,1
+37,28,2,17,4,7,timeline,145,0,so I think there is a box called general practitioner there are two lines so if there is one line I have to follow,0,23,2,1
+37,28,2,17,4,7,timeline,153,0,so let's say in April this person has seen a general practitioner,2,25,2,1
+37,28,2,17,4,7,timeline,163,0,there are some columns where I do not know why it's there ,0,25,2,1
+37,28,2,17,4,7,timeline,163,1,so who gave for instance is OLANZAPINE around 2011 April to July,2,27,2,1
+37,28,2,17,4,7,timeline,175,0,I do not know who gave that OLANZAPINE,0,27,2,1
+37,28,2,17,4,7,timeline,180,0,It logged me out,0,27,2,1
+38,20,3,18,4,8,table,0,0,begin,0,0,0,0
+38,20,3,18,4,8,table,3,0,if I scroll down the data starts from 2007,1,1,1,0
+38,20,3,18,4,8,table,9,0,but I can see that this person was an inpatient in a voluntary capacity,1,2,1,0
+38,20,3,18,4,8,table,15,0,doesn't say whether it was a psychiatric or other medical admission,0,2,1,0
+38,20,3,18,4,8,table,22,0,I can see that there has been some VENLAFAXINE from 28.07.2010 to 27.08.2010,2,4,2,0
+38,20,3,18,4,8,table,30,0,there has been a RISPERIDONE injection,1,5,2,0
+38,20,3,18,4,8,table,34,0,I would say that this person was on an injection depot maybe compliance was an issue,3,8,3,0
+38,20,3,18,4,8,table,41,0,and then this RISPERIDONE injection has been consistently prescribed ,2,10,3,0
+38,20,3,18,4,8,table,41,1,though it does not give me information whether it was twice weekly or how often this person was compliant ,0,10,3,0
+38,20,3,18,4,8,table,56,0,it gives me some information for instance there is a RISPERIDONE from 20th of January 2010 to 20th of July 2010,0,10,3,0
+38,20,3,18,4,8,table,64,0,and then there is one or two entries for that 31th of August 2010 ,0,10,3,0
+38,20,3,18,4,8,table,64,1,I do not know whether it was two weeks from now it is hard for me to calculate 28th of July to 31st of August,0,10,3,0
+38,20,3,18,4,8,table,77,0,I do not know whether it was given twice weekly or not,0,10,3,0
+38,20,3,18,4,8,table,82,0,there is VENLAFAXINE ,0,10,3,0
+38,20,3,18,4,8,table,82,1,there is specialist ,1,11,3,0
+38,20,3,18,4,8,table,82,1,and VENLAFAXINE,0,11,3,0
+38,20,3,18,4,8,table,84,0,there is no note of depot after that in 2010,0,11,3,0
+38,20,3,18,4,8,table,88,0,oh there is some in 2011 so I do not know what happened,1,12,3,0
+38,20,3,18,4,8,table,93,0,whether the script was ongoing or otherwise,0,12,3,0
+38,20,3,18,4,8,table,96,0,again there are two entries for RISPERIDONE,0,12,3,0
+38,20,3,18,4,8,table,99,0,oh yeah sorry there is one entry is for 20 mg and one entry is for 50 mg ,1,13,3,0
+38,20,3,18,4,8,table,99,1,so this person is on 70 mg of RISPERIDONE,1,14,3,0
+38,20,3,18,4,8,table,110,0,who gave them,0,14,3,0
+38,20,3,18,4,8,table,113,0,it says GP visit,1,15,3,0
+38,20,3,18,4,8,table,116,0,still it is hard to correspond because the GP visit is on 23rd of February 2011 and the RISPERIDONE is on the 1st of March 2011 ,0,15,3,0
+38,20,3,18,4,8,table,116,1,so there is a pattern because the week prior to the injections this person might be seeing the GP ,0,15,3,0
+38,20,3,18,4,8,table,116,1,so now the symptoms were 12th of January  2011 they have seen the GP they handed depot in 18th of January 2011 ,0,15,3,0
+38,20,3,18,4,8,table,116,1,so about 6 or 7 days later let's see if this pattern repeats,0,15,3,0
+38,20,3,18,4,8,table,148,0,ok there is an entry on 20th of July 2011 but they have seen their GP much before 13th of 2011 ,0,15,3,0
+38,20,3,18,4,8,table,148,1,so no there is no pattern,0,15,3,0
+38,20,3,18,4,8,table,160,0,there is a pattern here the 8th of June 2011 when they have seen their GP ,0,15,3,0
+38,20,3,18,4,8,table,160,1,and then this other one was 6 days later on the 14th and taken there a depo,2,17,3,0
+38,20,3,18,4,8,table,173,0,so possibly that's right so depo depo depo,0,17,3,0
+38,20,3,18,4,8,table,177,0,logged me out,0,17,3,0
+39,5,5,20,4,9,timeline,0,0,begin,0,0,0,1
+39,5,5,20,4,9,timeline,1,0,first I will move right to see how far the data goes,0,0,0,1
+39,5,5,20,4,9,timeline,8,0,so the data is from mid 2010 to 2013 so a 3 year data,1,1,1,1
+39,5,5,20,4,9,timeline,14,0,I see some blue dots ,0,1,1,1
+39,5,5,20,4,9,timeline,17,0,some green dots ,1,2,1,1
+39,5,5,20,4,9,timeline,18,0,some respiratory green dots,1,3,1,1
+39,5,5,20,4,9,timeline,19,0,other non-psychiatric blue dots,1,4,1,1
+39,5,5,20,4,9,timeline,21,0,GP visits,1,5,1,1
+39,5,5,20,4,9,timeline,23,0,so psychiatrist visits,1,6,1,1
+39,5,5,20,4,9,timeline,26,0,various diagnostics procedures and so on,1,7,1,1
+39,5,5,20,4,9,timeline,30,0,there seems to be more GP ,1,8,1,1
+39,5,5,20,4,9,timeline,30,1,there has to be consistent GP visits throughout the period,2,10,2,1
+39,5,5,20,4,9,timeline,38,0,there is some consultant psychiatrist in 2012 and 2013,2,12,2,1
+39,5,5,20,4,9,timeline,46,0,there is another episode,1,13,2,1
+39,5,5,20,4,9,timeline,48,0,I will see what the actual medication was,0,13,2,1
+39,5,5,20,4,9,timeline,54,0,if I zoom in,0,13,2,1
+39,5,5,20,4,9,timeline,58,0,it looks like CITALOPRAM so antidepressants,1,14,2,1
+39,5,5,20,4,9,timeline,62,0,which has been changed,1,15,2,1
+39,5,5,20,4,9,timeline,69,0,according to these it has started in July 2010,2,17,2,1
+39,5,5,20,4,9,timeline,79,0,not sure who started but there are some in around in October,1,18,2,1
+39,5,5,20,4,9,timeline,86,0,there is some GP,0,18,2,1
+39,5,5,20,4,9,timeline,93,0,GP visit OK,0,18,2,1
+39,5,5,20,4,9,timeline,95,0,and then this has been changed over in April 2012 it seems,1,19,2,1
+39,5,5,20,4,9,timeline,99,0,the GP change over to DULOXETINE,1,20,2,1
+39,5,5,20,4,9,timeline,104,0,so then two antipsychotics,1,21,2,1
+39,5,5,20,4,9,timeline,107,0,I can't see any other medication so,0,21,2,1
+39,5,5,20,4,9,timeline,110,0,and there is a consultant psychiatrist who comes in at the same time,2,23,2,1
+39,5,5,20,4,9,timeline,115,0,I think that coincides with the cessation of CITALOPRAM and the DULOXETINE ,2,25,2,1
+39,5,5,20,4,9,timeline,115,1,so possibly the psychiatrist was off to change the antidepressant,3,28,3,1
+39,5,5,20,4,9,timeline,123,0,the diagnosis could be,0,28,3,1
+39,5,5,20,4,9,timeline,126,0,depression,3,31,3,1
+39,5,5,20,4,9,timeline,126,1,maybe depression which do not respond to one meditation therefore this persona was changed it,3,34,3,1
+39,5,5,20,4,9,timeline,138,0,I cannot think of any other mayor observations,0,34,3,1
+39,5,5,20,4,9,timeline,146,0,there is AMOXICILLIN,1,35,3,1
+39,5,5,20,4,9,timeline,148,0,there is some AMOXICILLIN it is cause it signifies some mature respiratory infection,3,38,3,1
+39,5,5,20,4,9,timeline,154,0,I cannot think of any other stuff,0,38,3,1
+39,5,5,20,4,9,timeline,163,0,consultant psychiatrist three times ,2,40,3,1
+39,5,5,20,4,9,timeline,163,1,they've seen the consultant psychiatrist three times,0,40,3,1
+39,5,5,20,4,9,timeline,169,0,GP services,0,40,3,1
+39,5,5,20,4,9,timeline,170,0,regular,2,42,3,1
+39,5,5,20,4,9,timeline,172,0,there is a voluntary day patient admission for a procedure,1,43,3,1
+39,5,5,20,4,9,timeline,177,0,and it logged me out,0,43,3,1
+40,6,4,19,4,10,table,0,0,begin,0,0,0,0
+40,6,4,19,4,10,table,6,0,this is again a list,0,0,0,0
+40,6,4,19,4,10,table,9,0,this person is on FLUVOXAMINE ,1,1,1,0
+40,6,4,19,4,10,table,9,1,NALTREXONE,1,2,1,0
+40,6,4,19,4,10,table,11,0,PALIPERIDONE injections,1,3,1,0
+40,6,4,19,4,10,table,13,0,OLANZAPINE,1,4,1,0
+40,6,4,19,4,10,table,15,0,METFORMIN,1,5,1,0
+40,6,4,19,4,10,table,17,0,the diagnosis I can see has been seen a consultant psychiatrist,1,6,1,0
+40,6,4,19,4,10,table,22,0,so I would suspect an alcohol dependence because of the NALTREXONE,3,9,3,0
+40,6,4,19,4,10,table,26,0,I would suspect non compliance because this person is on PALIPERIDONE,3,12,3,0
+40,6,4,19,4,10,table,30,0,and possibly an affective disorder given that he has been on FLUVOXAMINE,3,15,3,0
+40,6,4,19,4,10,table,35,0,schizoid disorder  because he is on antipsychotics and FLUVOXAMINE,3,18,3,0
+40,6,4,19,4,10,table,43,0,that is more of the general ,0,18,3,0
+40,6,4,19,4,10,table,43,1,and also on depot RISPERIDONE ,1,19,3,0
+40,6,4,19,4,10,table,43,1,I can see that no other depo has been tried which is valuable to know,1,20,3,0
+40,6,4,19,4,10,table,43,1,this person has had three voluntary in-patient admissions so,2,22,3,0
+40,6,4,19,4,10,table,57,0,I wonder whether they were for psychiatric reasons or otherwise,0,22,3,0
+40,6,4,19,4,10,table,67,0,there is some ATROPINE not sure why they started ,1,23,3,0
+40,6,4,19,4,10,table,67,1,some of the medications can cause glaucoma ,3,26,3,0
+40,6,4,19,4,10,table,67,1,but not sure that ATROPINE would work I think it will worsen it,3,29,3,0
+40,6,4,19,4,10,table,84,0,FLUVOXAMINE,1,30,3,0
+40,6,4,19,4,10,table,85,0,FLUVOXAMINE has notorious interactions with other medications very important to know,3,33,3,0
+40,6,4,19,4,10,table,94,0,what time period it was given when other medications were given ,0,33,3,0
+40,6,4,19,4,10,table,94,1,and I said it before the list data makes it very difficult to sort of work out which medication was given simultaneously with what,0,33,3,0
+40,6,4,19,4,10,table,107,0,same with the visits ,0,33,3,0
+40,6,4,19,4,10,table,107,1,so I can make some general comments on how these people ,0,33,3,0
+40,6,4,19,4,10,table,107,1,or just comment about what medication this person has been on ,0,33,3,0
+40,6,4,19,4,10,table,107,1,but it is hard to draw temporal correlations or links between visits medications and so on ,0,33,3,0
+40,6,4,19,4,10,table,128,0,so rather than,0,33,3,0
+40,6,4,19,4,10,table,131,0,scrolling up and down,0,33,3,0
+40,6,4,19,4,10,table,133,0,I think I will finish,0,33,3,0
+40,6,4,19,4,10,table,134,0,thank you Niranjan and Geoff,0,33,3,0
+40,6,4,19,4,10,table,136,0,it was a useful exercise and I appreciate your project thank you,0,33,3,0
+41,51,1,21,5,1,timeline,0,0,begin,0,0,0,1
+41,51,1,21,5,1,timeline,31,0,well we are looking at a person who has been prescribed antidepressants,2,2,2,1
+41,51,1,21,5,1,timeline,33,0,and the person also has diabetes,3,5,3,1
+41,51,1,21,5,1,timeline,40,0,in terms of the medications prescribed diabetes ,0,5,3,1
+41,51,1,21,5,1,timeline,40,1,and also a smoker who has been trying to stop smoking,3,8,3,1
+41,51,1,21,5,1,timeline,62,0,he sees a GP on regular basis,2,10,3,1
+41,51,1,21,5,1,timeline,67,0,so we might be able to say he is relatively compliant,3,13,3,1
+41,51,1,21,5,1,timeline,72,0,in terms he has had a number of voluntary in-patient admissions,2,15,3,1
+41,51,1,21,5,1,timeline,80,0,there is an indicator they had an issue with the underlying disease,3,18,3,1
+41,51,1,21,5,1,timeline,82,0,I noticed in 2012 they prescribed an antipsychotic as well VENLAFAXINE ,2,20,3,1
+41,51,1,21,5,1,timeline,82,1,so this might be an indicator of a psychotic depression or schizoaffective disorder,4,24,4,1
+41,51,1,21,5,1,timeline,112,0,it's interesting that they also have statins ,1,25,4,1
+41,51,1,21,5,1,timeline,112,1,so they have a complex medical history as well as the psychiatric problems,3,28,4,1
+41,51,1,21,5,1,timeline,134,0,so they seem to be compliant but with a complex psychiatric and medical condition including diabetes,5,33,5,1
+41,51,1,21,5,1,timeline,144,0,they see a GP regularly,2,35,5,1
+41,51,1,21,5,1,timeline,146,0,and had a number of regular in-patient admissions,2,37,5,1
+41,51,1,21,5,1,timeline,155,0,which indicates that there were moments it was difficult to manage,3,40,5,1
+41,51,1,21,5,1,timeline,165,0,I am just going back to in-patient admission,0,40,5,1
+41,51,1,21,5,1,timeline,170,0,I am just going up and down the screen,0,40,5,1
+41,51,1,21,5,1,timeline,183,0,yeah so just looking at the oops that's it ok,0,40,5,1
+42,28,2,22,5,2,table,0,0,begin,0,0,0,0
+42,28,2,22,5,2,table,5,0,so this time we've got textual data,0,0,0,0
+42,28,2,22,5,2,table,11,0,we see a ,0,0,0,0
+42,28,2,22,5,2,table,14,0,this person has been prescribed antipsychotic OLANZAPINE,1,1,1,0
+42,28,2,22,5,2,table,19,0,and antidepressant,1,2,1,0
+42,28,2,22,5,2,table,20,0,in 2013,0,2,1,0
+42,28,2,22,5,2,table,23,0,and a statin,1,3,1,0
+42,28,2,22,5,2,table,28,0,they see the GP,1,4,1,0
+42,28,2,22,5,2,table,34,0,on a relatively regular basis ,2,6,2,0
+42,28,2,22,5,2,table,34,1,they have also seen a psychiatrist,1,7,2,0
+42,28,2,22,5,2,table,40,0,and they are seeing the psychiatrist on a pretty much regular it would seem,2,9,2,0
+42,28,2,22,5,2,table,50,0,problems with the eyes ,3,12,3,0
+42,28,2,22,5,2,table,50,1,an optometrist appointment,1,13,3,0
+42,28,2,22,5,2,table,58,0,so we can tell they are on antidepressants ,1,14,3,0
+42,28,2,22,5,2,table,58,1,and antipsychotic drug,1,15,3,0
+42,28,2,22,5,2,table,65,0,seeing both the psychiatrist and the GP regularly,0,15,3,0
+42,28,2,22,5,2,table,74,0,they also see an optometrician,0,15,3,0
+42,28,2,22,5,2,table,77,0,and they have some microbiology tests,1,16,3,0
+42,28,2,22,5,2,table,80,0,going back in time,0,16,3,0
+42,28,2,22,5,2,table,87,0,yeah so they seem relatively regular assuming that they,0,16,3,0
+42,28,2,22,5,2,table,94,0,are relatively compliant ,0,16,3,0
+42,28,2,22,5,2,table,94,1,although they have had hospital voluntary hospital admissions,1,17,3,0
+42,28,2,22,5,2,table,103,0,but overall the picture would be of a ,0,17,3,0
+42,28,2,22,5,2,table,108,0,person with a,0,17,3,0
+42,28,2,22,5,2,table,115,0,either schizoaffective disorder ,4,21,4,0
+42,28,2,22,5,2,table,115,1,or a psychotic depression recurrent,4,25,4,0
+42,28,2,22,5,2,table,120,0,seems as well to be compliant ,3,28,4,0
+42,28,2,22,5,2,table,120,1,but they've had a hospital admission within the last three years,2,30,4,0
+42,28,2,22,5,2,table,128,0,and they also have medical problems,0,30,4,0
+42,28,2,22,5,2,table,132,0,probably cardiovascular they are on a statin,3,33,4,0
+42,28,2,22,5,2,table,141,0,yeah that's about all I can say,0,33,4,0
+42,28,2,22,5,2,table,144,0,from this,0,33,4,0
+42,28,2,22,5,2,table,153,0,textual data,0,33,4,0
+42,28,2,22,5,2,table,161,0,so yeah this time I rather found to be difficult to navigate now that I am quite used to the other system,0,33,4,0
+43,20,3,23,5,3,timeline,0,0,begin,0,0,0,1
+43,20,3,23,5,3,timeline,4,0,I am looking at a timeline,0,0,0,1
+43,20,3,23,5,3,timeline,7,0,and we see that this patients has been prescribed a mood stabilizer ,1,1,1,1
+43,20,3,23,5,3,timeline,7,1,antipsychotic drugs,1,2,1,1
+43,20,3,23,5,3,timeline,14,0,in 2010,2,4,2,1
+43,20,3,23,5,3,timeline,20,0,there are also prescribed statin,1,5,2,1
+43,20,3,23,5,3,timeline,24,0,and I think they are picking up the prescriptions fairly regularly,0,5,2,1
+43,20,3,23,5,3,timeline,28,0,I am assuming the compliance is not too bad,3,8,3,1
+43,20,3,23,5,3,timeline,35,0,and there has been a VENLAFAXINE ,1,9,3,1
+43,20,3,23,5,3,timeline,35,1,and RISPERIDONE ,1,10,3,1
+43,20,3,23,5,3,timeline,35,1,and a mood stabilizer,0,10,3,1
+43,20,3,23,5,3,timeline,42,0,now just looking down to see what has been happening with the GP there,0,10,3,1
+43,20,3,23,5,3,timeline,48,0,they have seen the GP on a pretty regular basis ,2,12,3,1
+43,20,3,23,5,3,timeline,48,1,and also seen the psychiatrist on a regular basis,2,14,3,1
+43,20,3,23,5,3,timeline,58,0,and in terms of the hospital admissions they have had problems because they had to go to the hospital but,1,15,3,1
+43,20,3,23,5,3,timeline,76,0,no it appears not to have any hospital admissions,2,17,3,1
+43,20,3,23,5,3,timeline,78,0,one could assume that perhaps a ( inaudible ),3,20,3,1
+43,20,3,23,5,3,timeline,81,0,a voluntary admission back in 2007,1,21,3,1
+43,20,3,23,5,3,timeline,85,0,and that's all,0,21,3,1
+43,20,3,23,5,3,timeline,88,0,they have a bipolar disorder well managed,3,24,3,1
+43,20,3,23,5,3,timeline,94,0,oh they have another admission in 2010,1,25,3,1
+43,20,3,23,5,3,timeline,97,0,it's not bad guide,1,26,3,1
+43,20,3,23,5,3,timeline,101,0,yeah it seems to be relatively compliant in terms of picking up the scripts,0,26,3,1
+43,20,3,23,5,3,timeline,112,0,I see a psychiatrist on a regular basis,0,26,3,1
+43,20,3,23,5,3,timeline,119,0,and then they have seen the GP regularly,0,26,3,1
+43,20,3,23,5,3,timeline,127,0,I have some ( inaudible ) services ,1,27,3,1
+43,20,3,23,5,3,timeline,127,1,not quite sure what they would be it is pretty hard to interpreted those,0,27,3,1
+43,20,3,23,5,3,timeline,137,0,yeah I would say this person is having a bipolar disorder,0,27,3,1
+43,20,3,23,5,3,timeline,143,0,two admissions over the time period of the timeline,2,29,3,1
+43,20,3,23,5,3,timeline,150,0,relatively well managed,3,32,3,1
+43,20,3,23,5,3,timeline,154,0,perhaps on the ( inaudible ) even when there were external hospital every now and then,2,34,3,1
+44,51,1,21,5,4,table,0,0,begin,0,0,0,0
+44,51,1,21,5,4,table,2,0,we have got a person that is on statins,1,1,1,0
+44,51,1,21,5,4,table,6,0,who has got cardiovascular problems,3,4,3,0
+44,51,1,21,5,4,table,8,0,also on antidiabetic meditation in 2013,2,6,3,0
+44,51,1,21,5,4,table,13,0,and there are also antidepressants,2,8,3,0
+44,51,1,21,5,4,table,21,0,and diabetes,3,11,3,0
+44,51,1,21,5,4,table,23,0,so it is basically getting the scripts regularly,2,13,3,0
+44,51,1,21,5,4,table,29,0,they see the GP on a regular basis,2,15,3,0
+44,51,1,21,5,4,table,36,0,they are on VENLAFAXINE ,1,16,3,0
+44,51,1,21,5,4,table,36,1,and antidepressants going back in time here,0,16,3,0
+44,51,1,21,5,4,table,46,0,so they are clearly compliant with respect to the medication and seeing the GP,0,16,3,0
+44,51,1,21,5,4,table,57,0,now I see voluntary patient admission in 2012,1,17,3,0
+44,51,1,21,5,4,table,63,0,a couple of admissions actually,2,19,3,0
+44,51,1,21,5,4,table,68,0,but GP admissions on the side of the admissions,0,19,3,0
+44,51,1,21,5,4,table,73,0,it is not as if they were free willing without any medical care around the last times ,0,19,3,0
+44,51,1,21,5,4,table,73,1,going back to 2011 and GP visits,0,19,3,0
+44,51,1,21,5,4,table,85,0,VENLAFAXINE antidepressant and diabetic medications,0,19,3,0
+44,51,1,21,5,4,table,101,0,yes some imagery and,1,20,3,0
+44,51,1,21,5,4,table,104,0,there was smoking inaudible going back to 2011 ,1,21,3,0
+44,51,1,21,5,4,table,104,1,but did not spot smoking because then again they tried to stop,3,24,3,0
+44,51,1,21,5,4,table,118,0,they have a voluntary admission back in 2004 ,1,25,3,0
+44,51,1,21,5,4,table,118,1,but apparently they might not have been in the hospital ,1,26,3,0
+44,51,1,21,5,4,table,118,1,so inaudible there is an admission I cannot see it now,0,26,3,0
+44,51,1,21,5,4,table,131,0,scrolling up and down the list,0,26,3,0
+44,51,1,21,5,4,table,135,0,a inaudible psychiatry was,0,26,3,0
+44,51,1,21,5,4,table,146,0,so they seem to be compliant but right to the diabetic medication and the antidepressant medication,0,26,3,0
+44,51,1,21,5,4,table,157,0,in reason he has had not a lot of hospital in patient admissions,0,26,3,0
+44,51,1,21,5,4,table,169,0,and seen regularly but the GP ,0,26,3,0
+44,51,1,21,5,4,table,169,1,but not the psychiatrist,1,27,3,0
+45,6,4,24,5,5,timeline,0,0,begin,0,0,0,1
+45,6,4,24,5,5,timeline,5,0,first of all the drugs we see that they have antidepressant ,1,1,1,1
+45,6,4,24,5,5,timeline,5,1,antipsychotic ,1,2,1,1
+45,6,4,24,5,5,timeline,5,1,mood stabilizers ,1,3,1,1
+45,6,4,24,5,5,timeline,5,1,antidiabetic medications prescribed,1,4,1,1
+45,6,4,24,5,5,timeline,22,0,inaudible perhaps it is a patient with problem with alcohol,3,7,3,1
+45,6,4,24,5,5,timeline,30,0,and on the upper right it should indicate a lot of prescriptions antipsychotic drugs,2,9,3,1
+45,6,4,24,5,5,timeline,40,0,and looks like they have had a script for FLUVOXAMINE that is so funny and unusual,2,11,3,1
+45,6,4,24,5,5,timeline,46,0,antidepressants,0,11,3,1
+45,6,4,24,5,5,timeline,53,0,ok so there has been hospitalizations,1,12,3,1
+45,6,4,24,5,5,timeline,62,0,they have had a number of voluntary admissions through 2013 2012 ,0,12,3,1
+45,6,4,24,5,5,timeline,62,1,many admissions six or seven 2012 2011 ,2,14,3,1
+45,6,4,24,5,5,timeline,62,1,so it is poorly controlled ,3,17,3,1
+45,6,4,24,5,5,timeline,84,0,there is also a statin on this ,1,18,3,1
+45,6,4,24,5,5,timeline,84,1,so they have got cardiovascular issues,3,21,3,1
+45,6,4,24,5,5,timeline,89,0,let's see what about the GP visiting they have done,0,21,3,1
+45,6,4,24,5,5,timeline,98,0,there is a psychiatrist,1,22,3,1
+45,6,4,24,5,5,timeline,103,0,and GPs throughout 2012,0,22,3,1
+45,6,4,24,5,5,timeline,115,0,yeah many GP visits in 2012 2013,2,24,3,1
+45,6,4,24,5,5,timeline,123,0,and just going to the fault one,0,24,3,1
+45,6,4,24,5,5,timeline,128,0,they kind of like correlate with the time that they are having those multiple admissions,2,26,3,1
+45,6,4,24,5,5,timeline,137,0,it is a bit hard to know whether the compliance is an issue ,0,26,3,1
+45,6,4,24,5,5,timeline,137,1,or the illness was the issue ,0,26,3,1
+45,6,4,24,5,5,timeline,137,1,but clearly they have had a lot of medical interventions in 2010 2012,2,28,3,1
+45,6,4,24,5,5,timeline,157,0,a lot of psychiatric attendances during that period,2,30,3,1
+45,6,4,24,5,5,timeline,166,0,so they have got a difficult to control psychiatric illness,4,34,4,1
+46,5,5,25,5,6,table,0,0,begin,0,0,0,0
+46,5,5,25,5,6,table,1,0,and we can see a person has been prescribed antidepressants DULOXETINE in 2013,2,2,2,0
+46,5,5,25,5,6,table,7,0,they have seen the GP on a pretty regular basis,2,4,2,0
+46,5,5,25,5,6,table,12,0,so they have been on DULOXETINE,0,4,2,0
+46,5,5,25,5,6,table,14,0,I see a consultant psychiatrist in August 2012,1,5,2,0
+46,5,5,25,5,6,table,23,0,they have seen GP most of the time,0,5,2,0
+46,5,5,25,5,6,table,28,0,and they saw the psychiatrist again back in December 2011,1,6,2,0
+46,5,5,25,5,6,table,32,0,and they have been on a different antidepressant in 2011 ,2,8,2,0
+46,5,5,25,5,6,table,32,1,so they changed the antidepressant from CITALOPRAM to DULOXETINE ,1,9,2,0
+46,5,5,25,5,6,table,32,1,perhaps the consultant psychiatrist because the former was not working,3,12,3,0
+46,5,5,25,5,6,table,49,0,and I noticed they have had a day hospital admission in 2011,1,13,3,0
+46,5,5,25,5,6,table,58,0,GP visits,0,13,3,0
+46,5,5,25,5,6,table,59,0,CITALOPRAM,0,13,3,0
+46,5,5,25,5,6,table,61,0,and hospital day patient in 2004,1,14,3,0
+46,5,5,25,5,6,table,69,0,so this would probably be a person with recurrent depressive disorder with CITALOPRAM,3,17,3,0
+46,5,5,25,5,6,table,74,0,sees the GP relatively regularly,0,17,3,0
+46,5,5,25,5,6,table,78,0,had a couple of day patient admissions in the hospital,2,19,3,0
+46,5,5,25,5,6,table,83,0,has a change in one antidepressant to another probably after seeing the psychiatrist,0,19,3,0
+46,5,5,25,5,6,table,89,0,they continue to see the GP now,0,19,3,0
+46,5,5,25,5,6,table,96,0,and they maintain on the same dose of the new antidepressant DULOXETINE since that timeframe,0,19,3,0
+46,5,5,25,5,6,table,105,0,I think they are relatively well maintained at least,3,22,3,0
+46,5,5,25,5,6,table,113,0,no inpatient admission seen a GP,2,24,3,0
+46,5,5,25,5,6,table,113,1,and a consultant psychiatrist for extra help,0,24,3,0
+47,28,2,22,5,7,timeline,0,0,begin,0,0,0,1
+47,28,2,22,5,7,timeline,3,0,we have a patient who has been prescribed over a period antidepressants ,2,2,2,1
+47,28,2,22,5,7,timeline,3,1,antipsychotics ,2,4,2,1
+47,28,2,22,5,7,timeline,3,1,statins ,2,6,2,1
+47,28,2,22,5,7,timeline,3,1,and other non psychiatric drugs,2,8,2,1
+47,28,2,22,5,7,timeline,16,0,CITALOPRAM back in 2010 OLANZAPINE,1,9,2,1
+47,28,2,22,5,7,timeline,21,0,seen the GP,1,10,2,1
+47,28,2,22,5,7,timeline,29,0,GP visits,0,10,2,1
+47,28,2,22,5,7,timeline,32,0,so I can see they have got some sort of psychotic depression on pictures and signatures ,4,14,4,1
+47,28,2,22,5,7,timeline,32,1,so staying on the same antidepressant they have been and the same statin,0,14,4,1
+47,28,2,22,5,7,timeline,45,0,they have seen a psychiatrist ,2,16,4,1
+47,28,2,22,5,7,timeline,45,1,and a GP on pretty regular basis,2,18,4,1
+47,28,2,22,5,7,timeline,59,0,and at least I checked there that they have had admissions back in 2011,1,19,4,1
+47,28,2,22,5,7,timeline,67,0,and they have not had any other admission in that period,2,21,4,1
+47,28,2,22,5,7,timeline,79,0,but they do see a GP on regular basis,0,21,4,1
+47,28,2,22,5,7,timeline,85,0,and also the psychiatrist on a regular basis,0,21,4,1
+47,28,2,22,5,7,timeline,85,1,and they occasionally see a physician ,2,23,4,1
+47,28,2,22,5,7,timeline,85,1,perhaps that has to do with the cardiovascular problems,3,26,4,1
+47,28,2,22,5,7,timeline,99,0,they do not use a lot of passives as far as I look at things,2,28,4,1
+47,28,2,22,5,7,timeline,111,0,so we can assume this person is relatively well managed on pretty much both antipsychotic and antidepressants ,3,31,4,1
+47,28,2,22,5,7,timeline,111,1,but they require pretty regular follow-up by the GP and psychiatrist ,3,34,4,1
+47,28,2,22,5,7,timeline,111,1,they have had one admission some years ago,2,36,4,1
+47,28,2,22,5,7,timeline,131,0,but overall I would assume that they have complied and stayed out of the hospital,3,39,4,1
+47,28,2,22,5,7,timeline,145,0,just going forwards on the time period and it looks exactly the same,0,39,4,1
+47,28,2,22,5,7,timeline,151,0,it goes until the end of the period,0,39,4,1
+47,28,2,22,5,7,timeline,157,0,yeah they have stayed the same on the same place over the end of period,2,41,4,1
+47,28,2,22,5,7,timeline,167,0,pretty well maintained but requiring a inaudible and important to do that,0,41,4,1
+47,28,2,22,5,7,timeline,176,0,that would be my appreciation of this data,0,41,4,1
+48,20,3,23,5,8,table,0,0,begin,0,0,0,0
+48,20,3,23,5,8,table,12,0,and so we see they have prescribed an antipsychotic ,1,1,1,0
+48,20,3,23,5,8,table,12,1,antidepressant VENLAFAXINE,1,2,1,0
+48,20,3,23,5,8,table,21,0,and they also prescribed a statin,1,3,1,0
+48,20,3,23,5,8,table,31,0,so they have picked up these prescriptions pretty regularly throughout 2013,2,5,2,0
+48,20,3,23,5,8,table,37,0,they have seen a GP on a number of occasions through 2013 ,2,7,2,0
+48,20,3,23,5,8,table,37,1,and also a psychiatrist,2,9,2,0
+48,20,3,23,5,8,table,53,0,a combination of antipsychotic drug ,0,9,2,0
+48,20,3,23,5,8,table,53,1,and antidepressant pretty much the same ,0,9,2,0
+48,20,3,23,5,8,table,53,1,and I noticed a mood stabilizer in 2012 ,1,10,2,0
+48,20,3,23,5,8,table,53,1,so that means they have a bipolar disorder,3,13,3,0
+48,20,3,23,5,8,table,70,0,they have got some optometric visits,1,14,3,0
+48,20,3,23,5,8,table,79,0,and CT scans,1,15,3,0
+48,20,3,23,5,8,table,86,0,they have not been in the hospital,2,17,3,0
+48,20,3,23,5,8,table,92,0,so we could perhaps assume that they are relatively well controlled,3,20,3,0
+48,20,3,23,5,8,table,100,0,it has got inaudible managed by the GP for a period of time back to 2011,0,20,3,0
+48,20,3,23,5,8,table,108,0,I am seeing VENLAFAXINE dose ,0,20,3,0
+48,20,3,23,5,8,table,108,1,with different doses of  RISPERIDONE ,1,21,3,0
+48,20,3,23,5,8,table,108,1,and OLANZAPINE,1,22,3,0
+48,20,3,23,5,8,table,133,0,they have been on VALPROATE ,1,23,3,0
+48,20,3,23,5,8,table,133,1,but it seems prior not on such regular basis inaudible how much VALPROATE you get in the script,0,23,3,0
+48,20,3,23,5,8,table,148,0,perhaps they have stopped the VALPROATE which perhaps might indicate some diagnostic uncertainty,3,26,3,0
+48,20,3,23,5,8,table,156,0,so it would appear that this is a patient with a depressive symptoms ,3,29,3,0
+48,20,3,23,5,8,table,156,1,managed by the GP most of the time ,0,29,3,0
+48,20,3,23,5,8,table,156,1,with the occasional consult by the psychiatrist ,0,29,3,0
+48,20,3,23,5,8,table,156,1,generally managed by GP,0,29,3,0
+48,20,3,23,5,8,table,181,0,they are on a WAFER OLANZAPINE ,1,30,3,0
+48,20,3,23,5,8,table,181,1,WAFER which should indicate an admission but there is no admission,3,33,3,0
+49,5,5,25,5,9,timeline,0,0,begin,0,0,0,1
+49,5,5,25,5,9,timeline,2,0,so as we are zooming in we see this person was on antidepressants ,1,1,1,1
+49,5,5,25,5,9,timeline,2,1,and some other drugs,1,2,1,1
+49,5,5,25,5,9,timeline,10,0,CITALOPRAM ,1,3,1,1
+49,5,5,25,5,9,timeline,10,1,and TERBINAFINE,1,4,1,1
+49,5,5,25,5,9,timeline,14,0,so TERBINAFINE is usually for respiratory problem at times,3,7,3,1
+49,5,5,25,5,9,timeline,16,0,CITALOPRAM has been prescribed pretty regularly 2011,2,9,3,1
+49,5,5,25,5,9,timeline,24,0,and here DULOXETINE 2013 onwards,2,11,3,1
+49,5,5,25,5,9,timeline,29,0,they have seen psychiatrist,1,12,3,1
+49,5,5,25,5,9,timeline,35,0,which perhaps was when they changed from the CITALOPRAM to DULOXETINE ,3,15,3,1
+49,5,5,25,5,9,timeline,51,0,yep 2013 is on DULOXETINE ,0,15,3,1
+49,5,5,25,5,9,timeline,54,0,they have seen GP on pretty regular basis ,2,17,3,1
+49,5,5,25,5,9,timeline,54,1,and they are also seeing psychiatrist on a pretty regular basis,2,19,3,1
+49,5,5,25,5,9,timeline,64,0,just looking at the hospital admissions,0,19,3,1
+49,5,5,25,5,9,timeline,78,0,do not seem to have many,2,21,3,1
+49,5,5,25,5,9,timeline,82,0,or just one admission hospital alone,0,21,3,1
+49,5,5,25,5,9,timeline,85,0,they do not seem to have too many day patients,2,23,3,1
+49,5,5,25,5,9,timeline,93,0,there were hospitalizations ,1,24,3,1
+49,5,5,25,5,9,timeline,93,1,and like complete hospitalizations although the did have one hospitalization in 2011,2,26,3,1
+49,5,5,25,5,9,timeline,103,0,so I am just checking back to when all this started,0,26,3,1
+49,5,5,25,5,9,timeline,107,0,they were on CITALOPRAM at that stage so,2,28,3,1
+49,5,5,25,5,9,timeline,112,0,they were on CITALOPRAM prior to the admission ,0,28,3,1
+49,5,5,25,5,9,timeline,112,1,so whether that admission was a psychiatric problem or something else,3,31,3,1
+49,5,5,25,5,9,timeline,122,0,anyway they seem to be compliant,3,34,3,1
+49,5,5,25,5,9,timeline,127,0,although there was a period looking at this in 2012 when they seem not to be on DULOXETINE from February to August ,2,36,3,1
+49,5,5,25,5,9,timeline,127,1,which is interesting,0,36,3,1
+49,5,5,25,5,9,timeline,145,0,so they saw the GP a couple of times in that period but they were not on medication,2,38,3,1
+49,5,5,25,5,9,timeline,151,0,they also saw a psychiatrist just towards the end of the period,2,40,3,1
+49,5,5,25,5,9,timeline,155,0,and perhaps that is when they move on to the DULOXETINE ,3,43,3,1
+49,5,5,25,5,9,timeline,155,1,so perhaps it was kind of like the depression went away ,3,46,3,1
+49,5,5,25,5,9,timeline,155,1,and there was a new episode of depression that occurred in the beginning of or mid 2012,3,49,3,1
+49,5,5,25,5,9,timeline,174,0,so yeah that sums up,0,49,3,1
+50,6,4,24,5,10,table,0,0,begin,0,0,0,0
+50,6,4,24,5,10,table,1,0,and this is a patient who has been on antidepressant FLUVOXAMINE in 2013 ,2,2,2,0
+50,6,4,24,5,10,table,1,1,and also NALTREXONE,1,3,2,0
+50,6,4,24,5,10,table,9,0,so perhaps there is some problem with alcoholism,3,6,3,0
+50,6,4,24,5,10,table,14,0,they are also on OLANZAPINE for psychotic symptoms,1,7,3,0
+50,6,4,24,5,10,table,19,0,psychotic symptoms ,3,10,3,0
+50,6,4,24,5,10,table,19,1,depressive symptoms cause they are on antidepressant ,3,13,3,0
+50,6,4,24,5,10,table,19,1,and antipsychotic drug in 2013,0,13,3,0
+50,6,4,24,5,10,table,27,0,they have seen a psychiatrist in April 2013,1,14,3,0
+50,6,4,24,5,10,table,31,0,did not see a GP after that,2,16,3,0
+50,6,4,24,5,10,table,35,0,so going back in time they have been on more antipsychotic drugs,1,17,3,0
+50,6,4,24,5,10,table,42,0,and FLUVOXAMINE antidepressant,1,18,3,0
+50,6,4,24,5,10,table,46,0,I see they are on a METFORMIN so diabetes,3,21,3,0
+50,6,4,24,5,10,table,52,0,so one METFORMIN a bit odd they might prescribed consistently,0,21,3,0
+50,6,4,24,5,10,table,59,0,saw the GP before that,1,22,3,0
+50,6,4,24,5,10,table,63,0,slightly strange then,0,22,3,0
+50,6,4,24,5,10,table,65,0,prescription of METFORMIN,0,22,3,0
+50,6,4,24,5,10,table,67,0,so they have also prescribed VALPROATE mood stabilizing in 2013,1,23,3,0
+50,6,4,24,5,10,table,72,0,so a bit of a mix of antipsychiatry drugs right in 2013,0,23,3,0
+50,6,4,24,5,10,table,80,0,and some more METFORMIN prescribed in 2012,0,23,3,0
+50,6,4,24,5,10,table,85,0,there are not GP visits ,1,24,3,0
+50,6,4,24,5,10,table,85,1,so perhaps this person is not seen or not regularly ,0,24,3,0
+50,6,4,24,5,10,table,85,1,perhaps back here in 2012 seen a psychiatrist and GP,0,24,3,0
+50,6,4,24,5,10,table,99,0,seen a psychiatrist,0,24,3,0
+50,6,4,24,5,10,table,102,0,no admissions as far as we can tell,1,25,3,0
+50,6,4,24,5,10,table,107,0,perhaps in 2012 there was a voluntary admission,1,26,3,0
+50,6,4,24,5,10,table,117,0,so this person has a psychiatric illness ,0,26,3,0
+50,6,4,24,5,10,table,117,1,with depressive ,0,26,3,0
+50,6,4,24,5,10,table,117,1,and psychotic symptoms ,0,26,3,0
+50,6,4,24,5,10,table,117,1,and also some diabetes,3,29,3,0
+50,6,4,24,5,10,table,127,0,see a GP somewhat irregularly,0,29,3,0
+50,6,4,24,5,10,table,130,0,they have also seen a psychiatrist fairly regularly ,0,29,3,0
+50,6,4,24,5,10,table,135,0,then a couple of hospital admissions during the period of 2012,2,31,3,0
+50,6,4,24,5,10,table,140,0,so one would suggest the psychotic roughly difficult to manage ,3,34,3,0
+50,6,4,24,5,10,table,140,1,it is a combination of diabetes,0,34,3,0
+50,6,4,24,5,10,table,140,1, perhaps alcohol related problems as well,3,37,3,0
+50,6,4,24,5,10,table,152,0,it could be a bipolar disorder cause they also have some prescriptions for a mood stabilizing drug,3,40,3,0
+50,6,4,24,5,10,table,160,0,they have been on different antipsychotic regime indicates that perhaps it is difficult to treat,0,40,3,0
+50,6,4,24,5,10,table,170,0,and a fixed end back in 2011 and 2010,0,40,3,0
+50,6,4,24,5,10,table,177,0,in that period though there were fewer antidepressants prescribed,2,42,3,0
+50,6,4,24,5,10,table,181,0,so perhaps the explicit symptoms have come on later,3,45,3,0
+50,6,4,24,5,10,table,186,0,so that is it the last one,0,45,3,0
