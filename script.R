@@ -1,8 +1,6 @@
-# setwd("C:/Users/land/Documents/healthTimelinedata")
-setwd("C:/Users/land/Documents/copy-health-timeline-analysis") # use dropbox
-# setwd("C:/Users/andres/Dropbox/healthTimelineDataAnalysis") # use dropbox
+setwd("C:/Users/Land/Documents/health-timeline-data-analysis")
 dataFrame = read.csv(file="data.csv", head=TRUE, sep=",")
-dataFrame <- subset(dataFrame, value > 0) # remove zero value insights
+# dataFrame <- subset(dataFrame, value > 0) # remove zero value insights
 # write.csv(dataFrame, file = "healthTimelineDataRichNonZero.csv")
 summary(dataFrame)
 
