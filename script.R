@@ -17,6 +17,9 @@ summary(dataFrame)
 # total number of insights
 table(dataFrame$visualization)
 
+tmp <- subset(dataFrame, value > 0) # remove zero value insights
+table(tmp$visualization)
+
 # before we continue we explain the concept of experiment
 # we have 10 assessments and 5 participants
 # the insights produced by one participant durin an assessment are collected into an experiment
@@ -255,14 +258,16 @@ chisq.test(tmp$visualization, tmp$time)
 # in this example we check insights value at least 2
 # tmp <- aggregate(time ~ experiment+visualization, subset(dataFrame, value > 4), FUN=min)
 for(valueToCheck in c( 0, 1, 2, 3, 4 ) ){
+  print( paste( "time to first insight with value >", valueToCheck ) )
   base <- aggregate(value ~ case+visualization, dataFrame, FUN = function(z){ length( z[ z > valueToCheck ] ) } )
   base <- setNames( base, c("case", "visualization", "count") )
   tmp <- aggregate(time ~ case+visualization, subset( dataFrame, value > valueToCheck ), FUN = min )
   tmp <- merge(base, tmp, by = c("case", "visualization"), all.x = TRUE)
   tmp[is.na(tmp)] <- 191 # the three-minute limit we had per assessment
   p <- kruskal.test(time~visualization, data = tmp)$p.value
-  
-  print( paste( paste( "time to first insight with value >", valueToCheck ), paste("Kruskal ", p) ) )
+  print( paste("Kruskal ", p) )
+  p <- wilcox.test(time~visualization, data = tmp, p.value=TRUE)$p.value
+  print( paste("wilcox ", p) )
 }
 
 # valueToCheck <- 0
@@ -292,12 +297,17 @@ for(valueToCheck in c( 0, 1, 2, 3, 4 ) ){
 # to see all the insight values per experiment
 aggregate(value~experiment, dataFrame, FUN=function(z){ z }) # z refers to the list of values grouped by experiment
 
+tmp <- aggregate(value~case+visualization, dataFrame, FUN=function(z){ z })
+
 # assign to the tmp data frame the total number of insights value at least valueToCheck
 for(valueToCheck in c(0, 1, 2, 3, 4, 5)){
+  print( paste("total number of insights value", valueToCheck) )
   tmp <- aggregate(value~case+visualization, dataFrame, FUN=function(z){ length(z[z == valueToCheck]) })
   tmp <- setNames(tmp, c("case", "visualization", "count"))
   p <- kruskal.test(count~visualization, data = tmp)$p.value
-  print( paste(paste("total number of insights value", valueToCheck), paste("Kruskal", p)) )
+  print( paste("Kruskal", p) )
+  p <- wilcox.test(count~visualization, data = tmp)$p.value
+  print( paste("Wilcox", p) )
 }
 # valueToCheck <- 4
 
