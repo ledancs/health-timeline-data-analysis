@@ -279,7 +279,17 @@ for(valueToCheck in c( 0, 1, 2, 3, 4 ) ){
 # kruskal.test(time~visualization, data = tmp)
 
 
+# Miikka's suggestions
+tmp <- aggregate(time ~ case+experiment+visualization, subset(dataFrame, value > 0), FUN=min)
 
+tmp_table <- subset(tmp, visualization == 'table')
+tmp_timeline <- subset(tmp, visualization == 'timeline')
+
+tmp_table <- tmp_table[order(tmp_table$case),]
+tmp_timeline <- tmp_timeline[order(tmp_timeline$case),] 
+
+wilcox.test(tmp_table$time, tmp_timeline$time, PAIRED = TRUE)
+kruskal.test(tmp_table$time, tmp_timeline$time, PAIRED = TRUE)
 
 
 #####################################
