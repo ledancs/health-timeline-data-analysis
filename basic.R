@@ -74,7 +74,7 @@ base["mean"] <- aggregate(value ~ case+visualization, dataFrame, mean )$value
 base["std"] <- aggregate(value ~ case+visualization, dataFrame, sd )$value
 base["len"] <- aggregate(value ~ case+visualization, dataFrame, length )$value
 base["sum"] <- aggregate(value ~ case+visualization, dataFrame, sum )$value
-
+write.csv(base[,c("case", "visualization", "mean", "len", "sum")], file="perAssessment.csv")
 # mean value per assessment
 tapply(base$mean, base$visualization, minMaxMeanMedianStdFun)
 # cumulative value per assessment
@@ -82,6 +82,38 @@ tapply(base$sum, base$visualization, minMaxMeanMedianStdFun)
 # total number of insights per assessment
 tapply(base$len, base$visualization, minMaxMeanMedianStdFun)
 
+visualizeData <- aggregate(mean ~ visualization, base, FUN = mean )
+visualizeData <- setNames(visualizeData, c("Visualization", "Value"))
+visualizeData["Metric"] <- c("Mean", "Mean")
+
+tmp <- aggregate(len ~ visualization, base, FUN = mean )
+tmp <- setNames(tmp, c("Visualization", "Value"))
+tmp["Metric"] <- c("Total", "Total")
+
+visualizeData <- rbind(visualizeData,tmp)
+
+tmp <- aggregate(sum ~ visualization, base, FUN = mean )
+tmp <- setNames(tmp, c("Visualization", "Value"))
+tmp["Metric"] <- c("Cumulative", "Cumulative")
+
+visualizeData <- rbind(visualizeData,tmp)
+
+p <- ggplot(data=subset(visualizeData, visualizeData$Metric == "Cumulative"), aes(x=Metric, y=Value, fill=Visualization, width=.75)) +
+  geom_bar(stat="identity", color="black", position=position_dodge(width = 0.9))+
+  theme(
+    text = element_text(size=20), 
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    axis.line = element_line(colour = "black"),
+    axis.title.x=element_blank(),
+    axis.title.y=element_blank(),
+    # legend.position="none"
+    )
+# Use custom colors
+p + scale_fill_manual(values=c('#999999','#E69F00'))
+# Use brewer color palettes
+p + scale_fill_brewer(palette="Blues")
 #########################
 # TIME TO FIRST INSIGHT #
 #########################
