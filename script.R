@@ -17,7 +17,22 @@ summary(dataFrame)
 # total number of insights
 table(dataFrame$visualization)
 
-tmp <- subset(dataFrame, value > 0) # remove zero value insights
+# remove zero value insights
+tmp <- subset(dataFrame, value > 0)
+
+# histogram with both distributions by vlaue
+tableInsights <- subset(tmp, visualization == "table")
+timelineInsights <- subset(tmp, visualization == "timeline")
+
+hist(tableInsights$value, breaks=seq(0, 6, by=0.25), col="lightblue", xlab="Value", main="", ylim = c(0, 200), right = TRUE)
+hist(timelineInsights$value, breaks=seq(0, 6, by=0.25), col="lightsalmon", xlab="Value", main="", ylim = c(0, 200), right = FALSE, add = TRUE)
+legend(locator(1), c("Table", "Timeline"), fill=c("lightblue", "lightsalmon"), bty ="n")
+
+# install.packages('ggplot2')
+# library(ggplot2)
+# ggplot(data=tmp, aes(tmp$visualization)) + geom_histogram()
+
+# show a table with all values against visualizations
 table(tmp$visualization)
 
 # before we continue we explain the concept of experiment
@@ -28,6 +43,11 @@ table(tmp$visualization)
 
 # distribution of value of all the insights by visualization
 tbl <- table(dataFrame$value, dataFrame$visualization)
+
+# without insights of value 0
+tbl <- table(tmp$value, tmp$visualization)
+
+
 # chi squared statistical test
 chisq.test(tbl)
 chisq.test(tbl, simulate.p.value=TRUE)
@@ -185,39 +205,6 @@ xx <- seq(0,200, length=length(cumulativeMean$time))
 lines(xx, predict(fit, data.frame(x=xx)), col="black")
 
 
-# histograms
-
-h1 <- dataFrame[dataFrame$visualization=="table", "value"]
-h2 <- dataFrame[dataFrame$visualization=="timeline", "value"]
-
-hist(
-  h1, 
-  breaks=rep(0:5,each=2)+c(-.15,.15),
-  col=rgb(1,0,0,0.5),
-  xlim=c(0,5), 
-  # ylim=c(0,150), 
-  main="Overlapping Histogram", xlab="Variable"
-)
-
-hist(
-  h2, 
-  breaks=rep(0:5,each=2)+c(-.15,.15),
-  col=rgb(0,0,1,0.5), add=T)
-box()
-
-# box plots
-boxplot(
-  time~visualization, 
-  # data = subset(dataFrame, value > 2), 
-  # data = dataFrame, 
-  data = timeToFirstInsight,
-  col=(c("darkgreen","gold")),
-  notch=FALSE,
-  main = "Time to first insight", xlab = "Visualization", ylab="Value"
-  # main = "Insight Value 3 or Higher", xlab = "Visualization", ylab="Value"
-  # ylim=c(0,5)
-)
-
 #########################
 # TIME TO FIRST INSIGHT #
 #########################
@@ -263,11 +250,43 @@ for(valueToCheck in c( 0, 1, 2, 3, 4 ) ){
   base <- setNames( base, c("case", "visualization", "count") )
   tmp <- aggregate(time ~ case+visualization, subset( dataFrame, value > valueToCheck ), FUN = min )
   tmp <- merge(base, tmp, by = c("case", "visualization"), all.x = TRUE)
-  tmp[is.na(tmp)] <- 191 # the three-minute limit we had per assessment
+  # the three-minute limit we had per assessment 191 because even if the study was for 3 minutes
+  # some participants sill gave us insights after the time limit
+  # using 191 is not a good solution but it works for now
+  tmp[is.na(tmp)] <- 191
+  # another option is to use 
+  # na.omit(dat)
+  # which removes all NA columns
+  # perhaps this would be the right solution
   p <- kruskal.test(time~visualization, data = tmp)$p.value
   print( paste("Kruskal ", p) )
   p <- wilcox.test(time~visualization, data = tmp, p.value=TRUE)$p.value
   print( paste("wilcox ", p) )
+}
+
+# create csv files
+for(valueToCheck in c( 0, 1, 2, 3, 4 ) ){
+  print( paste( "time to first insight with value >", valueToCheck ) )
+  base <- aggregate(value ~ case+visualization, dataFrame, FUN = function(z){ length( z[ z > valueToCheck ] ) } )
+  base <- setNames( base, c("case", "visualization", "count") )
+  tmp <- aggregate(time ~ case+visualization, subset( dataFrame, value > valueToCheck ), FUN = min )
+  tmp <- merge(base, tmp, by = c("case", "visualization"), all.x = TRUE)
+  # the three-minute limit we had per assessment 191 because even if the study was for 3 minutes
+  # some participants sill gave us insights after the time limit
+  # using 191 is not a good solution but it works for now
+  # tmp[is.na(tmp)] <- 191
+  # another option is to use 
+  tmp <- na.omit(tmp)
+  # which removes all NA columns
+  # perhaps this would be the right solution
+  # p <- kruskal.test(time~visualization, data = tmp)$p.value
+  # print( paste("Kruskal ", p) )
+  # p <- wilcox.test(time~visualization, data = tmp, p.value=TRUE)$p.value
+  # print( paste("wilcox ", p) )
+  write.csv(tmp[c('visualization', 'time')], file = paste(valueToCheck, "time.csv"))
+  
+  # boxplots 
+  
 }
 
 # valueToCheck <- 0
@@ -312,12 +331,21 @@ tmp <- aggregate(value~case+visualization, dataFrame, FUN=function(z){ z })
 # assign to the tmp data frame the total number of insights value at least valueToCheck
 for(valueToCheck in c(0, 1, 2, 3, 4, 5)){
   print( paste("total number of insights value", valueToCheck) )
+  
   tmp <- aggregate(value~case+visualization, dataFrame, FUN=function(z){ length(z[z == valueToCheck]) })
   tmp <- setNames(tmp, c("case", "visualization", "count"))
-  p <- kruskal.test(count~visualization, data = tmp)$p.value
-  print( paste("Kruskal", p) )
-  p <- wilcox.test(count~visualization, data = tmp)$p.value
-  print( paste("Wilcox", p) )
+  
+  tmp_table <- subset(tmp, visualization == 'table')
+  tmp_timeline <- subset(tmp, visualization == 'timeline')
+  
+  tmp_table <- tmp_table[order(tmp_table$case),]
+  tmp_timeline <- tmp_timeline[order(tmp_timeline$case),] 
+  
+  p <- wilcox.test(tmp_table$count, tmp_timeline$count, PAIRED = TRUE)$p.value
+  print( paste("Wilcox ", p) )
+  
+  p <- kruskal.test(tmp_table$count, tmp_timeline$count, PAIRED = TRUE)$p.value
+  print( paste("Kruskal ", p) )
 }
 # valueToCheck <- 4
 
@@ -385,9 +413,26 @@ tapply(tmp$insight, tmp$visualization, minMaxMeanMedianStdFun) # get the average
 # The distribution of the value per assessment
 # we have 25 assessments with timeline and another 25 with the table
 
+# number of insights per assessment
+tmp <-aggregate(value~experiment+visualization, dataFrame, FUN=function(z){ length(z) })
+tmp <- setNames(tmp, c("experiment", "visualization", "total")) # remane the columns
+# write to CSV
+write.csv(tmp, file = "number.csv")
+# native R box plot
+boxplot(total~visualization,data=tmp, notch=TRUE,
+        horizontal=TRUE,
+        col=(c("lightblue","lightsalmon")),
+        xlab="Number of Insights", ylab="Visualization")
+
+
 # if we use the x-axis as the average insight-value
 tmp <- aggregate(value ~ experiment+visualization, dataFrame, FUN = function(z){ mean(z) } )
 tmp <- setNames(tmp, c("experiment", "visualization", "meanValue")) # remane the columns
+write.csv(tmp, file = "mean.csv")
+boxplot(meanValue~visualization,data=tmp, notch=TRUE,
+        horizontal=TRUE,
+        col=(c("lightblue","lightsalmon")),
+        xlab="Mean Value", ylab="Visualization")
 
 test <- wilcox.test(meanValue~visualization, data = tmp)
 p <- test$p.value
@@ -404,21 +449,27 @@ tapply(tmp$meanValue, tmp$visualization, minMaxMeanMedianStdFun) # get the avera
 # )
 # boxplot(dataToPlot)
 
-plot <- ggplot(tmp, aes(x=visualization, y=meanValue)) + geom_boxplot()
-plot + geom_boxplot()
-plot + geom_boxplot() + geom_jitter()
-plot + geom_boxplot() + coord_flip() + geom_jitter()
-plot + geom_boxplot(aes(fill = factor(visualization)))
+# plot <- ggplot(tmp, aes(x=visualization, y=meanValue)) + geom_boxplot()
+# plot + geom_boxplot()
+# plot + geom_boxplot() + geom_jitter()
+# plot + geom_boxplot() + coord_flip() + geom_jitter()
+# plot + geom_boxplot(aes(fill = factor(visualization)))
 
 # Recommended
-plot <- ggplot(tmp, aes(factor(visualization), meanValue)) 
-plot + geom_boxplot(aes(fill = factor(visualization))) + coord_flip() + geom_jitter() + scale_fill_manual(values=c("#999999", "#E69F00", "#56B4E9"))
-plot + geom_boxplot(aes(fill = factor(visualization))) + coord_flip() + scale_fill_brewer(palette="Accent")
+# plot <- ggplot(tmp, aes(factor(visualization), meanValue)) 
+# plot + geom_boxplot(aes(fill = factor(visualization))) + coord_flip() + geom_jitter() + scale_fill_manual(values=c("#999999", "#E69F00", "#56B4E9"))
+# plot + geom_boxplot(aes(fill = factor(visualization))) + coord_flip() + scale_fill_brewer(palette="Accent")
 
 
 # or the cummulative value
 tmp <- aggregate(value ~ experiment+visualization, dataFrame, FUN = function(z){ sum(z) } )
 tmp <- setNames(tmp, c("experiment", "visualization", "cumulativeValue")) # remane the columns
+write.csv(tmp, file = "cumulative.csv")
+boxplot(cumulativeValue~visualization,data=tmp, notch=TRUE,
+        horizontal=TRUE,
+        col=(c("lightblue","lightsalmon")),
+        xlab="Cumulative Value", ylab="Visualization")
+
 test <- wilcox.test(cumulativeValue~visualization, data = tmp)
 p <- test$p.value
 print( paste( "cumulative value per assessment ", paste("Wilcoxon Mann Whitney ", p) ) )
@@ -455,3 +506,7 @@ for(patientID in patientIDs ){
   print(stats)
 }
 
+# export charts to LaTeX
+install.packages('tikzDevice')
+library(tikzDevice)
+tikz('normal.tex', standAlone = TRUE, width=5, height=5)
